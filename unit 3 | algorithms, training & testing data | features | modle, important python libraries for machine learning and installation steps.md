@@ -92,7 +92,7 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 <ul style="list-style-type:'  '; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
 <!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
 <p align="left">
-  <img src="https://github.com/tabassumgulfaraz-ds/machine-learning-1.0/blob/main/Figures/unit3/Figure%203dot1.png" width="600">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit3/figure_3dot1.png" width="600">
 </p>
 
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:left;">
