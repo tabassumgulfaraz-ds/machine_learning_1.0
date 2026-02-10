@@ -146,8 +146,7 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
   <img src="https://img.shields.io/badge/Jupyter-Live%20Notebook-F37626?logo=jupyter&logoColor=white" />
   <strong>Open Environment Setup Notebook (Live)</strong>
 </a> <br></br>
-⚠️ Follow the steps below to run this notebook on your local machine.
-
+**⏳ This will take a few seconds or minutes, so you need to be patient.**
 
 
 
