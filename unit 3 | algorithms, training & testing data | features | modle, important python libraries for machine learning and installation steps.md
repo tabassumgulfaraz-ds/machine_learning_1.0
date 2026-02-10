@@ -152,7 +152,10 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 5.3.	Google Colab Cell
 </h4>
 Colab doesn't natively support conda, but you can install it.
-
+<a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho_environment_setup_colab.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+  <strong>Open Environment Setup Notebook (Colab)</strong>
+</a>
 
 
 
