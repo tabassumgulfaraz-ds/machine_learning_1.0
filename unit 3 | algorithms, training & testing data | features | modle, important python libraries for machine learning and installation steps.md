@@ -160,7 +160,8 @@ Colab doesn't natively support conda, but you can install it.<br></br>
 <h4 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
 5.4.	Kaggle Notebook Cell
 </h4>
-
+<b>⚠️ Kaggle does NOT support conda environments at all</b>
+Kaggle comes with pre-installed packages. You can only use pip for additional packages.
 
 
 
