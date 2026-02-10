@@ -151,7 +151,7 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 <h4 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
 5.3.	Google Colab Cell
 </h4>
-Colab doesn't natively support conda, but you can install it.
+Colab doesn't natively support conda, but you can install it.<br></br>
 <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho_environment_setup_colab.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" />
   <strong>Open Environment Setup Notebook (Colab)</strong>
