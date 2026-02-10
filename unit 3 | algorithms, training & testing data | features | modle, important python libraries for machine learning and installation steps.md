@@ -151,9 +151,8 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
-  <strong>Open Environment Setup Notebook (Local)</strong>
+  <strong>Run Notebook Locally</strong>
 </a>
-
 
 
 
