@@ -145,8 +145,8 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/main?filepath=files_and_datasets/f_ds3/pytho_environment_setup_jupyter.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Live%20Notebook-F37626?logo=jupyter&logoColor=white" />
   <strong>Open Environment Setup Notebook (Live)</strong>
-</a>
-> ⚠️ Follow the steps below to run this notebook on your local machine.
+</a> <br></br>
+⚠️ Follow the steps below to run this notebook on your local machine.
 
 
 
