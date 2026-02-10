@@ -133,6 +133,10 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
     <strong>Open Environment Setup Notebook</strong>
 </a>
 
+<h4 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+5.2.	Jupyter Notebook Cell
+</h4>
+
 
 
 
