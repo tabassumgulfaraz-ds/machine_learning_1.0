@@ -138,9 +138,10 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 </h4>
 
 <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho_environment_setup_jupyter.ipynb" target="_blank">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-    <strong>Open Environment Setup Notebook</strong>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
+  <strong>Open Environment Setup Notebook</strong>
 </a>
+
 
 
 
