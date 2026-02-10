@@ -161,7 +161,7 @@ Colab doesn't natively support conda, but you can install it.<br></br>
 5.4.	Kaggle Notebook Cell
 </h4>
 <b>⚠️ Kaggle does NOT support conda environments at all</b><br>
-Kaggle comes with pre-installed packages. You can only use pip for additional packages. <br>
+Kaggle comes with pre-installed packages. You can only use pip for additional packages.<br></br>
 
 <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho-environment-setup-kaggle.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
