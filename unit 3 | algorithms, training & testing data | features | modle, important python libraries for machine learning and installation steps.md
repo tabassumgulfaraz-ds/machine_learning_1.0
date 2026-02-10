@@ -148,6 +148,11 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 </a> <br></br>
 ⏳ This will take a few seconds or minutes, so you need to be patient.
 
+<h4 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+5.3.	Google Colab Cell
+</h4> <br></br>
+Colab doesn't natively support conda, but you can install it.
+
 
 
 
