@@ -148,13 +148,6 @@ ALGORITHMS, TRAINING & TESTING DATA | FEATURES | MODLE, IMPORTANT PYTHON LIBRARI
 </a>
 
 
-<a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho_environment_setup_jupyter.ipynb" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20in-Jupyter%20(Colab)-F37626?logo=jupyter&logoColor=white" />
-  <strong>Open Environment Setup Notebook (Run Online)</strong>
-</a>
-
-
-
 
 
 
