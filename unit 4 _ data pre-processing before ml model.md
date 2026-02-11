@@ -413,7 +413,7 @@ Discretization is the process of converting continuous data/values or numerical 
 <ul>
   <li>Numerical to Categorical conversion of data</li>
     <li>Binning</li>
-      <li>Clusters analysis</li>
+      <ul><li>Clusters analysis</li></ul>
 </ul>
 
 
