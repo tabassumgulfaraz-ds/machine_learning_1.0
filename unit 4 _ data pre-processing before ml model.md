@@ -191,24 +191,24 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
             <li>Binary Encoding</li>
             <li>Frequency Encoding</li>
           </ul>
-        <li>Feature Scaling<li>
-        <li>Data Integration<li>
+        <li>Feature Scaling</li>
+        <li>Data Integration</li>
           <ul>
             <li>Handling schema mismatch</li>
             <li>Resolving naming conflicts</li>
             <li>Merging tables</li>
           </ul>
-        <li>Data Encoding for Text (Text Transformation)<li>
+        <li>Data Encoding for Text (Text Transformation)</li>
           <li>Tokenization</li>
           <li>Stemming / Lemmatization</li>
           <li>TF-IDF</li>
           <li>Word embeddings</li>
-        <li>Data Binarization<li>
-        <li>Data Scaling and Standardization for Outliers<li>
+        <li>Data Binarization</li>
+        <li>Data Scaling and Standardization for Outliers</li>
           <li>Log transformation</li>
           <li>Square root transformation</li>
           <li>Reciprocal transformation</li>
-        <li>Higher Level Concepts<li>
+        <li>Higher Level Concepts</li>
       </ul>
   </ul>
 </ul>
