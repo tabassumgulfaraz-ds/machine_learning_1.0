@@ -418,8 +418,6 @@ Discretization is the process of converting continuous data/values or numerical 
       <ul><li>Clusters analysis</li></ul>
 </ul>
 
-<br></br>
-
 <p align="center">
   <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/unit%204%20_%20data%20pre-processing%20before%20ml%20model.md" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
