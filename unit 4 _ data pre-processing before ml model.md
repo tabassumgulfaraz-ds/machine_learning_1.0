@@ -404,6 +404,14 @@ This can be beneficial in situations where the dataset is too large to be proces
   <li>Even when we have high computational power, we may still prefer <b>dimensionality reduction</b> because we want to keep only those features that have a significant impact on the output and remove less important ones.</li>
 </ol>
 
+<!-- HEADING -->
+<h3 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+5.	Data Discretization 
+</h3>
+<ul>When we can convert Numeric variable to Nominal variable i.e., data discretization.
+Discretization is the process of converting continuous data/values or numerical data/values into discrete categories/features or bins. </ul>
+
+
 
 
 
