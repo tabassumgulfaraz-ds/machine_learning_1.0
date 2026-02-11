@@ -382,12 +382,12 @@ This can be beneficial in situations where the dataset is too large to be proces
 
 <ul>This technique is also called data encoding technique.</ul>
 <ul>Convert categorical to numeric.</ul>
-<ul><li>Data Compression</li>
-  <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
+
+<ul><li>Data Compression
+<a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction-2DBE4F?logo=geeksforgeeks&logoColor=white" />
   <strong>Data Reduction in Data Mining</strong>
-</a>
-</ul>
+</a></li></ul>
 <ul><li>Encoding</li></ul>
 
 
