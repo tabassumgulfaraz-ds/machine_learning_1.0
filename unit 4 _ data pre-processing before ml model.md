@@ -183,8 +183,8 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
             <li>Z-Score Normalization</li>
             <li>Decimal Scaling</li>
           </ul>
-        <li>Data Reduction<li>
-        <li>Encoding Techniques<li>
+        <li>Data Reduction</li>
+        <li>Encoding Techniques</li>
           <ul>
             <li>One-Hot Encoding</li>
             <li>Label Encoding</li>
