@@ -120,6 +120,9 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 </p>
 </ul>
 
+<ul>Data integration refers to the process of combining and harmonizing data from multiple sources into a unified, coherent format that can be put to use for various analytical, operational and decision-making purposes.</ul> <br></br>
+
+
 
 
 
