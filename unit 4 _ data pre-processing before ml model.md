@@ -226,6 +226,11 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 This can be beneficial in situations where the dataset is too large to be processed efficiently, or where the dataset contains a large amount of irrelevant or redundant information.
 </ul>
 
+
+<!-- TABLE WITH CAPTION (Table caption ABOVE table) -->
+<p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
+<b>Table 8.1:</b> Input Feature Matrix for Col51 Prediction.
+</p>
 <ul>
   <table>
   <thead>
