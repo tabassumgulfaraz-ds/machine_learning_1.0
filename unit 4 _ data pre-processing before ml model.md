@@ -390,15 +390,12 @@ This can be beneficial in situations where the dataset is too large to be proces
 </a></li></ul>
 <ul><li>Encoding</li></ul>
 
-<ul><b>Why do we reduce data?</b>
-  <a href="https://medium.com/analytics-vidhya/importance-of-dimensionality-reduction-d6a4c7289b92" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Dimensionality%20Reduction-F87000?logo=medium&logoColor=white" />
-    <strong>Importance of Dimensionality Reduction</strong>
-  </a></ul>
-
 <!-- BULLETS: Alphabetical -->
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px;">
-&nbsp;&nbsp;<b>Common tools used in Data Science:</b>
+&nbsp;&nbsp;<b>Why do we reduce data?  <a href="https://medium.com/analytics-vidhya/importance-of-dimensionality-reduction-d6a4c7289b92" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Dimensionality%20Reduction-F87000?logo=medium&logoColor=white" />
+    <strong>Importance of Dimensionality Reduction</strong>
+  </a></b>
 </p>
 
 <ol type="A" style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
