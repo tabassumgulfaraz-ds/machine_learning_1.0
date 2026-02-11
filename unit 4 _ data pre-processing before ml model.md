@@ -49,5 +49,23 @@ Structured sequence for preprocessing:
 Machine learning and deep learning algorithms perform best when data is presented in a way that streamlines the solution to a problem.<br>
 Data wrangling, data transformation, data reduction, feature selection, and feature scaling are all examples of data preprocessing approaches teams use to reorganize raw data into a format suitable for certain algorithms. This can significantly reduce the processing power and time necessary to train a new machine learning or AI system or perform an inference against it.<br>
 Most of the current data science packages and services now contain preprocessing libraries that automate many of these activities.
+
+<a href="https://lakefs.io/blog/data-preprocessing-in-machine-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-Open%20Article-0A66C2?logo=readthedocs&logoColor=white" />
+  <strong>Open Data Preprocessing Article</strong>
+</a>
+
+<a href="https://lakefs.io/blog/data-preprocessing-in-machine-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/LakeFS-Data%20Preprocessing-FF6B35?logo=data&logoColor=white" />
+  <strong>Read Data Preprocessing in Machine Learning</strong>
+</a>
+
+
+
+
+
+
+
+    
 </li>
 </ul>
