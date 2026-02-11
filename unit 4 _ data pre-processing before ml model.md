@@ -44,5 +44,10 @@ Structured sequence for preprocessing:
 </ul>
 
 <ul style="list-style-type:'■'; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
-  <li><b>Why is data preprocessing important?</b></li>
+  <li><b>Why is data preprocessing important?</b>
+  Data preprocessing is required for almost all types of data analysis, data science, and AI development to produce trustworthy, precise, and resilient findings for corporate applications.<br>
+Machine learning and deep learning algorithms perform best when data is presented in a way that streamlines the solution to a problem.<br>
+Data wrangling, data transformation, data reduction, feature selection, and feature scaling are all examples of data preprocessing approaches teams use to reorganize raw data into a format suitable for certain algorithms. This can significantly reduce the processing power and time necessary to train a new machine learning or AI system or perform an inference against it.<br>
+Most of the current data science packages and services now contain preprocessing libraries that automate many of these activities.
+</li>
 </ul>
