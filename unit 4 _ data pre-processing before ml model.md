@@ -419,7 +419,7 @@ Discretization is the process of converting continuous data/values or numerical 
 </ul>
 
 <p align="center">
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/unit%204%20_%20data%20pre-processing%20before%20ml%20model.md" target="_blank">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%204_%20Data%20Pre-Processing%20Before%20ML%20Model.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
          alt="PDF Logo" 
          width="100"/>
@@ -427,7 +427,7 @@ Discretization is the process of converting continuous data/values or numerical 
 </p>
 
 <p align="center">
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/unit%204%20_%20data%20pre-processing%20before%20ml%20model.md" target="_blank">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%204_%20Data%20Pre-Processing%20Before%20ML%20Model.pdf" target="_blank">
     <b>Data Pre-Processing Before ML Model</b>
   </a>
 </p>
