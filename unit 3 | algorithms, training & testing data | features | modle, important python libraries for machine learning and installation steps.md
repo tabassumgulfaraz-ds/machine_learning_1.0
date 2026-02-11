@@ -171,7 +171,7 @@ Kaggle comes with pre-installed packages. You can only use pip for additional pa
 <br></br>
 
 <p align="center">
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%202_ML%20Model%20Building%20to%20Deployment%20(Steps%20a-z).pdf" target="_blank">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%203_Algorithms%2C%20Training%20%26%20Testing%20Data%2C%20Features%2C%20Modle%2C%20Important%20Python%20Libraries%20for%20Machine%20Learning%20and%20Installation%20Steps.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
          alt="PDF Logo" 
          width="100"/>
@@ -179,7 +179,7 @@ Kaggle comes with pre-installed packages. You can only use pip for additional pa
 </p>
 
 <p align="center">
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%202_ML%20Model%20Building%20to%20Deployment%20(Steps%20a-z).pdf" target="_blank">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%203_Algorithms%2C%20Training%20%26%20Testing%20Data%2C%20Features%2C%20Modle%2C%20Important%20Python%20Libraries%20for%20Machine%20Learning%20and%20Installation%20Steps.pdf" target="_blank">
     <b>Algorithms, Training & Testing Data | Features | Modle, Important Python Libraries for Machine Learning and Installation Steps</b>
   </a>
 </p>
