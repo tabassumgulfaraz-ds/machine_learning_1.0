@@ -349,37 +349,29 @@ This can be beneficial in situations where the dataset is too large to be proces
   <tbody>
     <tr>
       <td>Male</td>
-      <td>to</td>
       <td>→</td>
       <td>4</td>
-      <td>to</td>
       <td>→</td>
       <td>1</td>
     </tr>
     <tr>
       <td>female</td>
-      <td>t0</td>
       <td>→</td>
       <td>6</td>
-      <td>t0</td>
       <td>→</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Male</td>
-      <td>to</td>
       <td>→</td>
       <td>4</td>
-      <td>to</td>
       <td>→</td>
       <td>1</td>
     </tr>
     <tr>
       <td>female</td>
-      <td>to</td>
       <td>→</td>
       <td>6</td>
-      <td>to</td>
       <td>→</td>
       <td>0</td>
     </tr>
