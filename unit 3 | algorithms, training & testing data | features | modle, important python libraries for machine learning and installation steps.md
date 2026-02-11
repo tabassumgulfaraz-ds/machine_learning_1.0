@@ -170,6 +170,22 @@ Kaggle comes with pre-installed packages. You can only use pip for additional pa
 
 
 
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%202_ML%20Model%20Building%20to%20Deployment%20(Steps%20a-z).pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
+         alt="PDF Logo" 
+         width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%202_ML%20Model%20Building%20to%20Deployment%20(Steps%20a-z).pdf" target="_blank">
+    <b>Algorithms, Training & Testing Data | Features | Modle, Important Python Libraries for Machine Learning and Installation Steps</b>
+  </a>
+</p>
+
+
+
 
 
 
