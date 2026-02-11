@@ -298,16 +298,18 @@ This can be beneficial in situations where the dataset is too large to be proces
 </ul>
 
 <ul>
-  <li>Dimensionality Reduction
-    <a href="https://www.geeksforgeeks.org/machine-learning/dimensionality-reduction/" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-Dimensionality%20Reduction-2DBE4F?logo=geeksforgeeks&logoColor=white" />
-    </a>
-
-    <a href="https://www.datacamp.com/tutorial/understanding-dimensionality-reduction" target="_blank">
-      <img src="https://img.shields.io/badge/DataCamp-Dimensionality%20Reduction%20Tutorial-0DC9F5?logo=datacamp&logoColor=white" />
-    </a>
-    
-  </li>
+  <li>Dimensionality Reduction</li>
+    <ul>
+      <a href="https://www.geeksforgeeks.org/machine-learning/dimensionality-reduction/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Dimensionality%20Reduction-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+      </a>
+    </ul>
+    <ul>
+      <a href="https://www.datacamp.com/tutorial/understanding-dimensionality-reduction" target="_blank">
+        <img src="https://img.shields.io/badge/DataCamp-Dimensionality%20Reduction%20Tutorial-0DC9F5?logo=datacamp&logoColor=white" />
+      </a>
+    </ul>
+  
   
   <li>Numerosity Reduction</li>
 </ul>
