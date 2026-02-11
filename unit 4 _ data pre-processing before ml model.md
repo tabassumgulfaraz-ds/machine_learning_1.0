@@ -343,7 +343,6 @@ This can be beneficial in situations where the dataset is too large to be proces
       <th></th>
       <th></th>
       <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
