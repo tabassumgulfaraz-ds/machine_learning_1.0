@@ -206,6 +206,22 @@ For example, ChatGPT has different versions such as <b>3.5, 4.0, 5.0, and now 5.
 
 
 
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_Introduction%20to%20Machine%20Learning.pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
+         alt="PDF Logo" 
+         width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_Introduction%20to%20Machine%20Learning.pdf" target="_blank">
+    <b>Ml Model Building to Deployment | Steps A-Z</b>
+  </a>
+</p>
+
+
+
 
 
 
