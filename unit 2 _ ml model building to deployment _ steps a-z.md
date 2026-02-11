@@ -61,7 +61,7 @@ ML MODEL BUILDING TO DEPLOYMENT | STEPS A-Z
 <ul style="list-style-type:'●'; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
   <li>In machine learning, we have two types of data:<br>X and Y. X is used to predict Y, which means X is the independent variable and Y depends on X. X can be a single variable or multiple variables. Independent variables (X) are also called predictors. X represents the input, while Y represents the output. In ML terminology, X is referred to as features, and Y is referred to as labels. Typically, X is denoted by a capital letter, and Y by a small letter.</br><!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
 <p align="left">
-  <img src="https://github.com/tabassumgulfaraz-ds/machine-learning-1.0/blob/main/Figures/unit2/Figure%205dot1.png" alt="Demo Image" width="600">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit2/Figure%205dot1.png" alt="Demo Image" width="600">
 </p>
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
 <b>Figure 5.1</b> Train and Test Split.
