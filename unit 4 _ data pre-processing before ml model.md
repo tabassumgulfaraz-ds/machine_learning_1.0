@@ -335,6 +335,53 @@ This can be beneficial in situations where the dataset is too large to be proces
 
 
 
+<table>
+  <thead>
+    <tr>
+      <th>Sex</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Male</td>
+      <td>to</td>
+      <td>4</td>
+      <td>to</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>female</td>
+      <td>t0</td>
+      <td>6</td>
+      <td>t0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Male</td>
+      <td>to</td>
+      <td>4</td>
+      <td>to</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>female</td>
+      <td>to</td>
+      <td>6</td>
+      <td>to</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 
 
 
