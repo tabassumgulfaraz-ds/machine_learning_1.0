@@ -380,7 +380,10 @@ This can be beneficial in situations where the dataset is too large to be proces
   </table>
 </ul>
 
-<ul>This technique is also called data encoding technique.<br>Convert categorical to numeric.</ul>
+<ul>This technique is also called data encoding technique.</ul>
+<ul>Convert categorical to numeric.</ul>
+<ul><li>Data Compression</li></ul>
+<ul><li>Encoding</li></ul>
 
 
 
