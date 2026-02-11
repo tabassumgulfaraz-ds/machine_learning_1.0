@@ -330,52 +330,55 @@ This can be beneficial in situations where the dataset is too large to be proces
   </ul>
 </ul>
 
+<ul>
+  <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
+  <b>Table 4.1</b> Categorical to Numeric Data Encoding
+  </p>
+</ul>
 
-
-
-
-
-<table>
-  <thead>
-    <tr>
-      <th>Sex</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Male</td>
-      <td>→</td>
-      <td>4</td>
-      <td>→</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>female</td>
-      <td>→</td>
-      <td>6</td>
-      <td>→</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Male</td>
-      <td>→</td>
-      <td>4</td>
-      <td>→</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>female</td>
-      <td>→</td>
-      <td>6</td>
-      <td>→</td>
-      <td>0</td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+  <table>
+    <thead>
+      <tr>
+        <th>Sex</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Male</td>
+        <td>→</td>
+        <td>4</td>
+        <td>→</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>female</td>
+        <td>→</td>
+        <td>6</td>
+        <td>→</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>Male</td>
+        <td>→</td>
+        <td>4</td>
+        <td>→</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>female</td>
+        <td>→</td>
+        <td>6</td>
+        <td>→</td>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</ul>
 
 
 
