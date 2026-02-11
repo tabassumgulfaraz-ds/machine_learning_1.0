@@ -180,36 +180,47 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
         <li>Normalization</li>
           <ul>
             <li>Min-Max Normalization</li>
-            <li></li>
-            <li></li>
+            <li>Z-Score Normalization</li>
+            <li>Decimal Scaling</li>
           </ul>
         <li>Data Reduction<li>
         <li>Encoding Techniques<li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <ul>
+            <li>One-Hot Encoding</li>
+            <li>Label Encoding</li>
+            <li>Binary Encoding</li>
+            <li>Frequency Encoding</li>
+          </ul>
         <li>Feature Scaling<li>
         <li>Data Integration<li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <ul>
+            <li>Handling schema mismatch</li>
+            <li>Resolving naming conflicts</li>
+            <li>Merging tables</li>
+          </ul>
         <li>Data Encoding for Text (Text Transformation)<li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Tokenization</li>
+          <li>Stemming / Lemmatization</li>
+          <li>TF-IDF</li>
+          <li>Word embeddings</li>
         <li>Data Binarization<li>
         <li>Data Scaling and Standardization for Outliers<li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Log transformation</li>
+          <li>Square root transformation</li>
+          <li>Reciprocal transformation</li>
         <li>Higher Level Concepts<li>
       </ul>
   </ul>
 </ul>
 
+<!-- HEADING -->
+<h3 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+4.	Data Reduction
+</h3>
 
+<ul>Data reduction is the process of reducing the size of a dataset while still preserving the most important information, to improve the efficiency and performance of machine learning algorithms and other data-driven processes.<br>
+This can be beneficial in situations where the dataset is too large to be processed efficiently, or where the dataset contains a large amount of irrelevant or redundant information.
+</ul>
 
 
 
