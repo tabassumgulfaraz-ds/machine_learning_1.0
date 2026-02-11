@@ -288,7 +288,10 @@ This can be beneficial in situations where the dataset is too large to be proces
 <ul>
   50 (feature) x 100 (rows) = 5000 <br>
   25 (feature—top priority) x 100 (rows) = 2500
-  <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
+</ul>
+
+<ul>
+    <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction%20in%20Data%20Mining-2DBE4F?logo=geeksforgeeks&logoColor=white" />
   <strong>Data Reduction in Data Mining</strong>
 </a>
