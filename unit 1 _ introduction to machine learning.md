@@ -73,7 +73,7 @@ INTRODUCTION TO MACHINE LEARNING
 <!-- ============ -->
 <!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
 <p style="text-align:left;">
-  <img src="https://github.com/tabassumgulfaraz-ds/machine-learning-1.0/blob/main/Figures/unit1/Figure%201dot2.png" 
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit1/Figure%201dot2.png" 
        alt="Unit 01 Image" 
        width="600">
 </p>
