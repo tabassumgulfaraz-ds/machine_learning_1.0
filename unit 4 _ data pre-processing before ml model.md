@@ -407,7 +407,12 @@ This can be beneficial in situations where the dataset is too large to be proces
 <!-- HEADING -->
 <h3 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
 5.	Data Discretization 
+  <a href="https://www.geeksforgeeks.org/dbms/discretization/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Discretization-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+    <strong>Discretization (DBMS)</strong>
+  </a>
 </h3>
+
 <ul>When we can convert Numeric variable to Nominal variable i.e., data discretization.
 Discretization is the process of converting continuous data/values or numerical data/values into discrete categories/features or bins. </ul>
 <ul>
