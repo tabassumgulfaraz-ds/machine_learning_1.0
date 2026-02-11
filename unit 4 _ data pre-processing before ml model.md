@@ -101,6 +101,16 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 </ul>
 </ul>
 
+<!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
+<p align="center">
+  <img src="https://via.placeholder.com/600x300" alt="Demo Image" width="600">
+</p>
+
+<p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
+<b>Figure 2.1:</b> Data Integration Triangulation.
+</p>
+
+
 
 
 
