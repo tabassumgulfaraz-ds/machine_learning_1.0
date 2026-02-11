@@ -314,16 +314,17 @@ This can be beneficial in situations where the dataset is too large to be proces
   </ul>
   
   <ul>
-    <li>Numerosity Reduction</li>
-    <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction%20in%20Data%20Mining-2DBE4F?logo=geeksforgeeks&logoColor=white" />
-      <strong> </strong>
-    </a>
-
-    <a href="https://www.tutorialspoint.com/what-is-numerosity-reduction" target="_blank">
-      <img src="https://img.shields.io/badge/TutorialsPoint-Numerosity%20Reduction-F47A20?logo=tutorialspoint&logoColor=white" />
-      <strong>What Is Numerosity Reduction</strong>
-    </a>
+    <li>Numerosity Reduction
+      <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction%20in%20Data%20Mining-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+        <strong> </strong>
+      </a>
+  
+      <a href="https://www.tutorialspoint.com/what-is-numerosity-reduction" target="_blank">
+        <img src="https://img.shields.io/badge/TutorialsPoint-Numerosity%20Reduction-F47A20?logo=tutorialspoint&logoColor=white" />
+        <strong>What Is Numerosity Reduction</strong>
+      </a>
+    </li>
   </ul>
 
 <ul>
