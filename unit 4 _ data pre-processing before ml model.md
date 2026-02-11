@@ -199,10 +199,12 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
             <li>Merging tables</li>
           </ul>
         <li>Data Encoding for Text (Text Transformation)</li>
+        <ul>
           <li>Tokenization</li>
           <li>Stemming / Lemmatization</li>
           <li>TF-IDF</li>
           <li>Word embeddings</li>
+        </ul>
         <li>Data Binarization</li>
         <li>Data Scaling and Standardization for Outliers</li>
           <li>Log transformation</li>
