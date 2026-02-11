@@ -168,7 +168,7 @@ Kaggle comes with pre-installed packages. You can only use pip for additional pa
   <strong>Open Environment Setup Notebook (Kaggle)</strong>
 </a>
 
-
+<br></br>
 
 <p align="center">
   <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%202_ML%20Model%20Building%20to%20Deployment%20(Steps%20a-z).pdf" target="_blank">
