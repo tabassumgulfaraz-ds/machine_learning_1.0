@@ -80,12 +80,10 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 </a>
 </ul>
 
-<ul style="list-style-type:'■ ✔ ▸ ◆ •	● '; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
-  <li>Data Collection</li>
-  <li>Data Cleaning and Preprocessing</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Model Building</li>
+<ul style="list-style-type:'■'; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
+<ul style="list-style-type:'■'; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
   <li>Model Evaluation</li>
+</ul>
 </ul>
 
 
