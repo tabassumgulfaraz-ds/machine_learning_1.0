@@ -62,7 +62,7 @@ Most of the current data science packages and services now contain preprocessing
 C.	Data Preprocessing Key Steps and Techniques in Machine Learning
 </h3>
 
-<ul style="list-style-type:' '; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:0px; margin-left:40px;">
+<ul style="list-style-type:' '; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:0px;">
   <li>  <a href="https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp-Preprocessing%20Course-0DC9F5?logo=datacamp&logoColor=white" />
   <strong>Preprocessing for Machine Learning (Python) by DataCamp Free</strong>
