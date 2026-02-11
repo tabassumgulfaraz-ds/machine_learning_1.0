@@ -299,12 +299,17 @@ This can be beneficial in situations where the dataset is too large to be proces
 
 <ul>
   <li>Dimensionality Reduction
+    <a href="https://www.geeksforgeeks.org/machine-learning/dimensionality-reduction/" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-Dimensionality%20Reduction-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+      <strong>Dimensionality Reduction (ML)</strong>
+    </a>
+
     <a href="https://www.datacamp.com/tutorial/understanding-dimensionality-reduction" target="_blank">
-    <img src="https://img.shields.io/badge/DataCamp-Dimensionality%20Reduction%20Tutorial-0DC9F5?logo=datacamp&logoColor=white" />
-    </a> &nbsp;<a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction%20in%20Data%20Mining-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+      <img src="https://img.shields.io/badge/DataCamp-Dimensionality%20Reduction%20Tutorial-0DC9F5?logo=datacamp&logoColor=white" />
+      <strong>Understanding Dimensionality Reduction (Tutorial)</strong>
     </a>
   </li>
+  
   <li>Numerosity Reduction</li>
 </ul>
 
