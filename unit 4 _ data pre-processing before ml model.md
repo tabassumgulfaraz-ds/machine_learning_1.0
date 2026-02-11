@@ -67,3 +67,9 @@ C.	Data Preprocessing Key Steps and Techniques in Machine Learning
   <strong>Preprocessing for Machine Learning (Python)</strong>
 </a>
 
+<a href="https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python" target="_blank">
+  <img src="https://img.shields.io/badge/DataCamp-Preprocessing%20Course-0DC9F5?logo=datacamp&logoColor=white" />
+  <strong>Open DataCamp Preprocessing Course</strong>
+</a>
+
+
