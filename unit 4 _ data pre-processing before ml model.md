@@ -409,11 +409,11 @@ This can be beneficial in situations where the dataset is too large to be proces
 5.	Data Discretization 
   <a href="https://www.geeksforgeeks.org/dbms/discretization/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Discretization-2DBE4F?logo=geeksforgeeks&logoColor=white" />
-    <strong>Discretization (DBMS)</strong>
+    <strong> </strong>
   </a>
   <a href="https://www.blog.trainindata.com/data-discretization-in-machine-learning/" target="_blank">
     <img src="https://img.shields.io/badge/TrainInData-Data%20Discretization-FF6B35?logo=blogger&logoColor=white" />
-    <strong>Data Discretization in Machine Learning</strong>
+    <strong> </strong>
   </a>
 </h3>
 
