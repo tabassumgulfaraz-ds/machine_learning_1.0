@@ -178,9 +178,11 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
         <li>Attribute Construction</li>
         <li>Generalization</li>
         <li>Normalization</li>
-          <li>Min-Max Normalization</li>
-          <li></li>
-          <li></li>
+          <ul>
+            <li>Min-Max Normalization</li>
+            <li></li>
+            <li></li>
+          </ul>
         <li>Data Reduction<li>
         <li>Encoding Techniques<li>
           <li></li>
