@@ -297,7 +297,7 @@ This can be beneficial in situations where the dataset is too large to be proces
 </a>
 </ul>
 
-<ul><li>Dimensionality Reduction</li>
+<ul><li>Dimensionality Reduction</li></ul>
   <ul>
     <a href="https://www.geeksforgeeks.org/machine-learning/dimensionality-reduction/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Dimensionality%20Reduction-2DBE4F?logo=geeksforgeeks&logoColor=white" />
@@ -310,19 +310,19 @@ This can be beneficial in situations where the dataset is too large to be proces
     <strong>Understanding Dimensionality Reduction (Tutorial)</strong>
     </a>
   </ul>
-</ul>
-  <li>Numerosity Reduction</li>
+  
+  <ul><li>Numerosity Reduction</li></ul>
   <ul>
-  <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction%20in%20Data%20Mining-2DBE4F?logo=geeksforgeeks&logoColor=white" />
-  <strong>Data Reduction in Data Mining</strong>
-  </a>
+    <a href="https://www.geeksforgeeks.org/dbms/data-reduction-in-data-mining/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Reduction%20in%20Data%20Mining-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+    <strong>Data Reduction in Data Mining</strong>
+    </a>
   </ul>
   <ul>
-  <a href="https://www.tutorialspoint.com/what-is-numerosity-reduction" target="_blank">
-  <img src="https://img.shields.io/badge/TutorialsPoint-Numerosity%20Reduction-F47A20?logo=tutorialspoint&logoColor=white" />
-  <strong>What Is Numerosity Reduction</strong>
-  </a>
+    <a href="https://www.tutorialspoint.com/what-is-numerosity-reduction" target="_blank">
+    <img src="https://img.shields.io/badge/TutorialsPoint-Numerosity%20Reduction-F47A20?logo=tutorialspoint&logoColor=white" />
+    <strong>What Is Numerosity Reduction</strong>
+    </a>
   </ul>
 </ul>
 
