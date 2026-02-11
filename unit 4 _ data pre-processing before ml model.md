@@ -146,10 +146,23 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 
 <ul>Data transformation is at the heart of data analysis and machine learning. In a machine learning pipeline, which includes modifying the raw data and converting raw data into a more suitable format or structure for analysis and model training purpose, to improve its quality, performance and make it compatible with the requirements of a particular task or system. In data transformation, we usually deal with issues such as noise, missing values, outliers, and non-normality.</ul>
 
-<a href="https://www.geeksforgeeks.org/machine-learning/data-transformation-in-machine-learning/" target="_blank">
+<ul><a href="https://www.geeksforgeeks.org/machine-learning/data-transformation-in-machine-learning/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-ML%20Data%20Transformation-2DBE4F?logo=geeksforgeeks&logoColor=white" />
   <strong>Data Transformation in Machine Learning</strong>
 </a>
+</ul>
+
+<ul><a href="https://www.geeksforgeeks.org/data-analysis/what-is-data-transformation/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Transformation%20(Analysis)-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+  <strong>What Is Data Transformation?</strong>
+</a>
+</ul>
+
+<ul><a href="https://www.geeksforgeeks.org/dbms/data-transformation-techniques-in-data-mining/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Mining%20Transformation-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+  <strong>Data Transformation Techniques in Data Mining</strong>
+</a>
+</ul>
 
 
 
