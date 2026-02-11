@@ -164,33 +164,14 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 </a>
 </ul>
 
+<ul>
+  <li>Scaling</li>
+  <li>Normalization</li>
+  <li>Aggregation (combining two or more variable/features)</li>
+  <li>Generalization</li>
+  <li>Data Transformation Techniques are:</li>
+</ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.geeksforgeeks.org/machine-learning/data-transformation-in-machine-learning/" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Transformation-ML-GG-4CAF50?logo=geeksforgeeks&logoColor=white" />
-  <strong>ML Data Transformation</strong>
-</a>
-
-<a href="https://www.geeksforgeeks.org/data-analysis/what-is-data-transformation/" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Transformation-Guide-GG-4CAF50?logo=geeksforgeeks&logoColor=white" />
-  <strong>Data Transformation Guide</strong>
-</a>
-
-<a href="https://www.geeksforgeeks.org/dbms/data-transformation-techniques-in-data-mining/" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Transformation-Data%20Mining-GG-4CAF50?logo=geeksforgeeks&logoColor=white" />
-  <strong>Data Mining Transform Techniques</strong>
-</a>
 
 
 
