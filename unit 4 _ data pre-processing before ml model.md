@@ -77,8 +77,8 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
   <a href="https://www.ibm.com/think/topics/data-cleaning" target="_blank">
   <img src="https://img.shields.io/badge/IBM-Data%20Cleaning-0062CE?logo=ibm&logoColor=white" />
   <strong>Open IBM Data Cleaning Guide</strong>
+     <li>abc</li>
 </a>
-  <li>abc</li>
 </ul>
 
 
