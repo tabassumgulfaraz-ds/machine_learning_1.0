@@ -314,10 +314,18 @@ INTRODUCTION TO MACHINE LEARNING
   <li>Many more… </li>
 </ol>
 
+<h1 align="center">📘 Introduction to Machine Learning</h1>
+
+<p align="center">
   <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_%20Introduction%20to%20Machine%20Learning.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
          alt="PDF Logo" 
          width="150"/>
   </a>
+</p>
 
-https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_%20Introduction%20to%20Machine%20Learning.pdf
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_%20Introduction%20to%20Machine%20Learning.pdf" target="_blank">
+    <b>Click here to read the full PDF: Introduction to Machine Learning</b>
+  </a>
+</p>
