@@ -318,7 +318,7 @@ INTRODUCTION TO MACHINE LEARNING
 
 
 <p align="center">
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_%20Introduction%20to%20Machine%20Learning.pdf" target="_blank">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%201_Introduction%20to%20Machine%20Learning.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
          alt="PDF Logo" 
          width="100"/>
