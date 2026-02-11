@@ -51,21 +51,8 @@ Data wrangling, data transformation, data reduction, feature selection, and feat
 Most of the current data science packages and services now contain preprocessing libraries that automate many of these activities.
 
 <a href="https://lakefs.io/blog/data-preprocessing-in-machine-learning/" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-Open%20Article-0A66C2?logo=readthedocs&logoColor=white" />
-  <strong>Open Data Preprocessing Article</strong>
-</a>
-
-<a href="https://lakefs.io/blog/data-preprocessing-in-machine-learning/" target="_blank">
   <img src="https://img.shields.io/badge/LakeFS-Data%20Preprocessing-FF6B35?logo=data&logoColor=white" />
   <strong>Read Data Preprocessing in Machine Learning</strong>
-</a>
-
-
-
-
-
-
-
-    
+</a>    
 </li>
 </ul>
