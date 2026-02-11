@@ -171,6 +171,14 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
     <li>Aggregation (combining two or more variable/features)</li>
     <li>Generalization</li>
     <li>Data Transformation Techniques are:</li>
+      <ul>
+        <li>Smoothing</li>
+        <li>Aggregation</li>
+        <li>Discretization</li>
+        <li>Attribute Construction</li>
+        <li>Generalization</li>
+        <li>Normalization</li>
+      </ul>
   </ul>
 </ul>
 
