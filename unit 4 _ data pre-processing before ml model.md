@@ -229,7 +229,7 @@ This can be beneficial in situations where the dataset is too large to be proces
 
 <!-- TABLE WITH CAPTION (Table caption ABOVE table) -->
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
-<ul><b>Table 8.1:</b> Input Feature Matrix for Col51 Prediction.</ul>
+<ul><b>Table 4.1:</b> Input Feature Matrix for Col51 Prediction.</ul>
 </p>
 <ul>
   <table>
@@ -325,7 +325,7 @@ This can be beneficial in situations where the dataset is too large to be proces
 
 <ul>
   <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
-  <b>Table 4.1</b> Categorical to Numeric Data Encoding
+  <b>Table 4.2</b> Categorical to Numeric Data Encoding
   </p>
 </ul>
 
