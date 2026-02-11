@@ -207,9 +207,11 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
         </ul>
         <li>Data Binarization</li>
         <li>Data Scaling and Standardization for Outliers</li>
+        <ul>
           <li>Log transformation</li>
           <li>Square root transformation</li>
           <li>Reciprocal transformation</li>
+        </ul>
         <li>Higher Level Concepts</li>
       </ul>
   </ul>
