@@ -116,7 +116,7 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 
 <ul>
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
-<b>Figure 2.1:</b> Data Integration via Triangulation.
+<b>Figure 2.1</b> Data Integration via Triangulation.
 </p>
 </ul>
 
@@ -229,7 +229,7 @@ This can be beneficial in situations where the dataset is too large to be proces
 
 <!-- TABLE WITH CAPTION (Table caption ABOVE table) -->
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
-<ul><b>Table 4.1:</b> Input Feature Matrix for Col51 Prediction.</ul>
+<ul><b>Table 4.1</b> Input Feature Matrix for Col51 Prediction.</ul>
 </p>
 <ul>
   <table>
