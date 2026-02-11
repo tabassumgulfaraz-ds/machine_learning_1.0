@@ -120,11 +120,14 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 </p>
 </ul>
 
-<ul>Data integration refers to the process of combining and harmonizing data from multiple sources into a unified, coherent format that can be put to use for various analytical, operational and decision-making purposes.</ul> <br></br>
+<ul>Data integration refers to the process of combining and harmonizing data from multiple sources into a unified, coherent format that can be put to use for various analytical, operational and decision-making purposes.</ul> <br>
+
+<ul>
 <a href="https://www.ibm.com/think/topics/data-integration#763338456" target="_blank">
   <img src="https://img.shields.io/badge/IBM-Data%20Integration-0062CE?logo=ibm&logoColor=white" />
   <strong>Open IBM Data Integration Topic</strong>
 </a>
+</ul>
 
 
 
