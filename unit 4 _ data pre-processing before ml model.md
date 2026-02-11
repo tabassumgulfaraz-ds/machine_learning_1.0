@@ -297,6 +297,15 @@ This can be beneficial in situations where the dataset is too large to be proces
 </a>
 </ul>
 
+<ul>
+  <li>Dimensionality Reduction
+    <a href="https://www.datacamp.com/tutorial/understanding-dimensionality-reduction" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-Dimensionality%20Reduction%20Tutorial-0DC9F5?logo=datacamp&logoColor=white" />
+    <strong>Understanding Dimensionality Reduction (Tutorial)</strong>
+    </a>
+  </li>
+  <li>Numerosity Reduction</li>
+</ul>
 
 
 
