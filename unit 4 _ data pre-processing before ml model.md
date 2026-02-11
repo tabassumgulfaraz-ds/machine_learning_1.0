@@ -139,6 +139,20 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
   </ul>
 </ul>
 
+<!-- HEADING -->
+<h3 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+3.	Data Transformation 
+</h3>
+
+<ul>Data transformation is at the heart of data analysis and machine learning. In a machine learning pipeline, which includes modifying the raw data and converting raw data into a more suitable format or structure for analysis and model training purpose, to improve its quality, performance and make it compatible with the requirements of a particular task or system. In data transformation, we usually deal with issues such as noise, missing values, outliers, and non-normality.</ul>
+
+<a href="https://www.geeksforgeeks.org/machine-learning/data-transformation-in-machine-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-ML%20Data%20Transformation-2DBE4F?logo=geeksforgeeks&logoColor=white" />
+  <strong>Data Transformation in Machine Learning</strong>
+</a>
+
+
+
 
 
 
