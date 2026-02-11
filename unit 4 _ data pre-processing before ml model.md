@@ -82,7 +82,22 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 
 <ul style="list-style-type:'■'; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
 <ul style="list-style-type:'■'; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
-  <li>Model Evaluation</li>
+  <li>Handling/Impute Missing/Null Values</li>
+  <li>Remove Noisy Data</li>
+  <li>Outlier Detection and Removal</li>
+  <li>Remove Duplicates </li>
+  <li>Noise Reduction</li>
+  <li>Fixing Inconsistencies</li>
+  <li>Data Validation</li>
+  <li>Data Standardization</li>
+  <li>Data Normalization</li>
+  <li>Data Type Correction</li>
+  <li>Handling Invalid Values</li>
+  <li>Data Smoothing</li>
+  <li>Error Correction</li>
+  <li>Removing Irrelevant Data</li>
+  <li>Data Integrity Checks</li>
+  <li>Handling Imbalanced Data</li>
 </ul>
 </ul>
 
