@@ -72,6 +72,7 @@ C.	Data Preprocessing Key Steps and Techniques in Machine Learning
 <h3 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
 1.	Data Cleaning
 </h3>
+
 <ul style="list-style-type:' '; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
 Data cleaning, also called data cleansing or data scrubbing, is the process of identifying and correcting errors and inconsistencies in raw data sets to improve data quality.<br></br>
   <a href="https://www.ibm.com/think/topics/data-cleaning" target="_blank">
@@ -101,9 +102,14 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 </ul>
 </ul>
 
+<!-- HEADING -->
+<h3 style="color:#003366; font-family:Arial, Helvetica, sans-serif; font-size:15px;">
+2.	Data Integration 
+</h3>
+
 <!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Demo Image" width="600">
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit4/figure_2dot1.png" alt="Demo Image" width="600">
 </p>
 
 <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center;">
