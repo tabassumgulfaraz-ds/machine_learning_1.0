@@ -410,8 +410,10 @@ This can be beneficial in situations where the dataset is too large to be proces
 </h3>
 <ul>When we can convert Numeric variable to Nominal variable i.e., data discretization.
 Discretization is the process of converting continuous data/values or numerical data/values into discrete categories/features or bins. </ul>
-<li><ul>lNumerical to Categorical conversion of data</li></ul>
-<ul><li>Binning</li><li>Clusters analysis</li></ul>
+<ul><li>lNumerical to Categorical conversion of data</li></ul>
+<ul><li>Binning</li>
+  <li>Clusters analysis</li>
+</ul>
 
 
 
