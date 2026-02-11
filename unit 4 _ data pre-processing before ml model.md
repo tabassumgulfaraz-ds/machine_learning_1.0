@@ -285,6 +285,10 @@ This can be beneficial in situations where the dataset is too large to be proces
 </table>
 </ul>
 
+<ul>
+  50 (feature) x 100 (rows) = 5000 <br>
+  25 (feature—top priority) x 100 (rows) = 2500
+</ul>
 
 
 
