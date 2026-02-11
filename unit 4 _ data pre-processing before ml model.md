@@ -390,13 +390,22 @@ This can be beneficial in situations where the dataset is too large to be proces
 </a></li></ul>
 <ul><li>Encoding</li></ul>
 
-<b>Why do we reduce data?</b>
+<ul><b>Why do we reduce data?</b>
   <a href="https://medium.com/analytics-vidhya/importance-of-dimensionality-reduction-d6a4c7289b92" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Dimensionality%20Reduction-F87000?logo=medium&logoColor=white" />
     <strong>Importance of Dimensionality Reduction</strong>
-  </a>
+  </a></ul>
 
+<!-- BULLETS: Alphabetical -->
+<p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px;">
+&nbsp;&nbsp;<b>Common tools used in Data Science:</b>
+</p>
 
+<ol type="A" style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
+  <li>When we use large datasets on personal computers, they require very high resources such as RAM, large storage capacity, and GPU support. Data reduction helps lower these resource requirements.</li>
+  <li>During a <b>pilot project</b> (a small or initial phase of a larger project), data reduction techniques are used more heavily to work efficiently with limited data and resources.</li>
+  <li>Even when we have high computational power, we may still prefer <b>dimensionality reduction</b> because we want to keep only those features that have a significant impact on the output and remove less important ones.</li>
+</ol>
 
 
 
