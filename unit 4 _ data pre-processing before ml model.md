@@ -130,11 +130,13 @@ Data cleaning, also called data cleansing or data scrubbing, is the process of i
 
 
 <ul>
-<li>Remove Duplicates/Data Redundancy</li>
-<li>Fixing Inconsistencies</li>
-<li>Data Cleaning (<b>Data cleaning</b> is necessary because after collecting data through multiple methods, new data may arrive, and therefore it must be cleaned.)</li>
-<li>Merge data</li>
-<li>Data consolidation</li>
+  <ul>
+    <li>Remove Duplicates/Data Redundancy</li>
+    <li>Fixing Inconsistencies</li>
+    <li>Data Cleaning (<b>Data cleaning</b> is necessary because after collecting data through multiple methods, new data may arrive, and therefore it must be cleaned.)</li>
+    <li>Merge data</li>
+    <li>Data consolidation</li>  
+  </ul>
 </ul>
 
 
