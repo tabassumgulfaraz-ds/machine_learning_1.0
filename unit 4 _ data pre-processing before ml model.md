@@ -49,7 +49,7 @@ Structured sequence for preprocessing:
 Machine learning and deep learning algorithms perform best when data is presented in a way that streamlines the solution to a problem.<br>
 Data wrangling, data transformation, data reduction, feature selection, and feature scaling are all examples of data preprocessing approaches teams use to reorganize raw data into a format suitable for certain algorithms. This can significantly reduce the processing power and time necessary to train a new machine learning or AI system or perform an inference against it.<br>
 Most of the current data science packages and services now contain preprocessing libraries that automate many of these activities.
-
+<br></br>
 <a href="https://lakefs.io/blog/data-preprocessing-in-machine-learning/" target="_blank">
   <img src="https://img.shields.io/badge/LakeFS-Data%20Preprocessing-FF6B35?logo=data&logoColor=white" />
   <strong>Read Data Preprocessing in Machine Learning</strong>
@@ -75,7 +75,7 @@ C.	Data Preprocessing Key Steps and Techniques in Machine Learning
 </h3>
 
 <ul style="list-style-type:' '; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin-left:40px;">
-Data cleaning, also called data cleansing or data scrubbing, is the process of identifying and correcting errors and inconsistencies in raw data sets to improve data quality.<br>
+Data cleaning, also called data cleansing or data scrubbing, is the process of identifying and correcting errors and inconsistencies in raw data sets to improve data quality.<br></br>
   <a href="https://www.ibm.com/think/topics/data-cleaning" target="_blank">
   <img src="https://img.shields.io/badge/IBM-Data%20Cleaning-0062CE?logo=ibm&logoColor=white" />
   <strong>Open IBM Data Cleaning Guide</strong>
