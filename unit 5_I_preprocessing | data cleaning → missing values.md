@@ -112,9 +112,9 @@ Having missing values is common in any dataset, but when deciding whether a colu
 
 - #### What If I Don't Handle Missing Values?
 
-Then the model will definitely not work well—and that's not all, listen further!
+<ul>Then the model will definitely not work well—and that's not all, listen further!</ul>
 
-If we ignore missing values, we may face many problems. Some of the issues that can arise are listed below:
+<ul>If we ignore missing values, we may face many problems. Some of the issues that can arise are listed below:</ul>
 
 - **Decrease in Model Accuracy:**
   
