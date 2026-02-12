@@ -2,15 +2,15 @@
 
 # PREPROCESSING | DATA CLEANING → DATA INCONSISTENCIES/ANOMALIES
 
-## 1. Data Inconsistency
+### 1. Data Inconsistency
 
 **Data inconsistencies** are errors or contradictions in a dataset, where the same data is represented in different, conflicting, mismatched, or illogical ways across a dataset. In machine learning, inconsistent data can **mislead the model**, reduce accuracy, and increase preprocessing complexity.
 
 In **data cleaning**, handling data inconsistencies means identifying and correcting these mismatches so the data becomes **accurate, uniform, and reliable** for training machine learning models.
 
-## 1.1. Data Inconsistency by Data Type / Format
+### 1.1. Data Inconsistency by Data Type / Format
 
-### 1.1.1. Numerical Data
+#### 1.1.1. Numerical Data
 
 ▪ **Example:** Age recorded as 25 (year) in one row and 250 (months) in another for the same person. If Age is greater than 100 consider as months.
 
@@ -18,7 +18,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Apply validation rules, detect outliers, cross-check with reference ranges.
 
-### 1.1.2. Categorical / Text Data
+#### 1.1.2. Categorical / Text Data
 
 ▪ **Example:** Gender recorded as M, Male, male, or m in different rows.
 
@@ -26,7 +26,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Standardization, mapping to a canonical form, case normalization.
 
-### 1.1.3. Date / Time Data
+#### 1.1.3. Date / Time Data
 
 ▪ **Example:** 01/02/2025 in one row, 2025-02-01 in another (DD/MM/YYYY vs YYYY-MM-DD).
 
@@ -34,7 +34,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Convert to a unified format (ISO standard), detect invalid dates.
 
-### 1.1.4. Boolean / Binary Data
+#### 1.1.4. Boolean / Binary Data
 
 ▪ **Example:** True/False vs 1/0 vs Yes/No in the same column.
 
@@ -42,7 +42,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Map all values to a single consistent representation.
 
-### 1.1.5. Multi-format / Mixed-type Columns
+#### 1.1.5. Multi-format / Mixed-type Columns
 
 ▪ **Example:** Column Price having values "$100", 100, USD 100.
 
@@ -50,7 +50,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Strip non-numeric symbols, convert to float or integer.
 
-### 1.1.6. Missing / Null Values
+#### 1.1.6. Missing / Null Values
 
 ▪ **Example:** One system records missing salary as NaN, another as 0, and another as Unknown.
 
@@ -58,7 +58,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Replace with a consistent placeholder, impute, or remove rows.
 
-### 1.1.7. Duplicated / Redundant Records
+#### 1.1.7. Duplicated / Redundant Records
 
 ▪ **Example:** Two entries for the same customer with slight differences in spelling or address.
 
@@ -66,7 +66,7 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Deduplication using fuzzy matching, key-based merging.
 
-### 1.1.8. Logical Conflicts
+#### 1.1.8. Logical Conflicts
 
 ▪ **Example:** A person's Date of Birth is 2010-05-10 but Age column shows 30.
 
@@ -74,15 +74,15 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 ▪ **Cleaning Approach:** Recalculate dependent fields or flag errors for manual review.
 
-### 1.1.9. Naming Conversion
+#### 1.1.9. Naming Conversion
 
 ▪ U.S.A, USA, United State, United State of America
 
-### 1.1.10. Typographical Mistake
+#### 1.1.10. Typographical Mistake
 
 ▪ James Taylor, james taylor
 
-### 1.1.11. Contradictory Data
+#### 1.1.11. Contradictory Data
 
 ▪ Son age < father age (truth)
 
