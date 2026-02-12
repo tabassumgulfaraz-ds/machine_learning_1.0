@@ -20,9 +20,9 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
-  </a>
+  </a><br>
   ⏳ This will take a few seconds or minutes, so you need to be patient.
-  <br>
+  <br></br>
   
   <!-- Open in Google Colab -->
   <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
