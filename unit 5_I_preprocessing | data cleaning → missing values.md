@@ -158,9 +158,9 @@ Having missing values is common in any dataset, but when deciding whether a colu
   
 <ul><ul>In scientific or research projects, missing values can lead to incorrect experimental outcomes.</ul></ul>
 
-- **Stress and Extra Work:**
+<ul><ul><li><b>Stress and Extra Work:</b></li></ul></ul>
   
-  Data scientists may have to do extra work during analysis because missing values need to be identified and handled.
+<ul><ul>Data scientists may have to do extra work during analysis because missing values need to be identified and handled.</ul></ul>
 
 
 ### 1.7. How to Perform Data Cleaning
