@@ -1,0 +1,31 @@
+Name,Age,Gender,Country,DateOfBirth,IsActive,Price,Salary,RegistrationDate,FatherAge,SonAge
+James Taylor,25,M,USA,1/15/1999,TRUE,$100 ,50000,1/10/2020,55,25
+james taylor,300,Male,U.S.A,15/01/1999,1,100,NaN,10/1/2020,50,25
+Sarah Connor,28,F,United State,5/20/1996,Yes,USD 100,60000,6/15/2019,58,28
+Sarah Connor,28,female,United State of America,20-05-1996,TRUE,$120 ,60000,15-06-2019,58,28
+Michael Scott,150,m,USA,3/10/2010,FALSE,85.5,0,3/1/2021,30,25
+Michael Scott,35,M,USA,3/10/1989,0,85.5,45000,1/3/2021,60,35
+Emma Watson,240,Female,UK,8/25/1998,TRUE,$200 ,Unknown,12/20/2018,62,20
+emma watson,20,f,United Kingdom,25/08/2004,Yes,200,75000,20/12/2018,62,20
+John Doe,45,Male,Canada,11/30/1979,1,150,55000,7/22/2017,70,45
+JOHN DOE,45,M,canada,30/11/1979,TRUE,$150 ,55000,22-07-2017,70,45
+Lisa Simpson,180,F,USA,2/14/2010,No,95,48000,2/29/2020,40,15
+Lisa Simpson,15,female,U.S.A,14-02-2009,0,95,48000,2020-02-30,40,15
+Robert Brown,32,m,Australia,7/18/1992,TRUE,175.5,NaN,5/10/2016,65,32
+robert brown,32,Male,australia,18/07/1992,yes,USD 175.50,62000,10/5/2016,65,32
+Anna Lee,420,F,China,9/5/1990,FALSE,$300 ,70000,11/25/2015,55,35
+Anna Lee,35,female,china,5/9/1990,0,300,70000,25/11/2015,68,35
+David Miller,29,M,Germany,12/1/1995,1,125,0,8/30/2019,60,29
+DAVID MILLER,29,male,GERMANY,1/12/1995,TRUE,$125 ,58000,30-08-2019,60,29
+Sophie Turner,22,F,France,4/22/2002,yes,110.75,Unknown,1/15/2021,50,22
+sophie turner,264,Female,france,22-04-2002,TRUE,USD 110.75,52000,15/01/2021,50,22
+Chris Evans,38,m,USA,6/13/1986,No,180,65000,9/18/2014,70,38
+Chris Evans,38,M,United State,13/06/1986,0,$180 ,65000,18-09-2014,70,38
+Olivia Harris,156,female,India,10/28/2011,TRUE,95.25,NaN,3/12/2022,45,13
+olivia harris,13,F,india,28-10-2011,Yes,95.25,47000,12/3/2022,45,13
+Thomas Anderson,50,Male,USA,8/9/1974,FALSE,$220 ,80000,5/20/2010,75,50
+THOMAS ANDERSON,50,M,U.S.A,9/8/1974,0,220,80000,20-05-2010,75,50
+Rachel Green,27,f,UK,3/17/1997,1,135,Unknown,7/8/2020,60,27
+rachel green,324,Female,United Kingdom,17-03-1997,TRUE,USD 135,59000,8/7/2020,25,27
+Mark Johnson,42,M,Canada,5/25/1982,Yes,$190 ,72000,11/11/2013,68,42
+Mark Johnson,42,male,CANADA,25/05/1982,TRUE,190,72000,11/11/2013,68,42
