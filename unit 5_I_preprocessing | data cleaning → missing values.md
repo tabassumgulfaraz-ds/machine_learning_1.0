@@ -122,37 +122,41 @@ Having missing values is common in any dataset, but when deciding whether a colu
 <ul><ul>The accuracy of machine learning models can decrease because the model does not receive complete information.</ul></ul>
 
 
-- **Incorrect Analysis:**
+<ul><ul><li><b>Incorrect Analysis:</b></li></ul></ul>
   
-  Wrong results may be produced during data analysis, which can negatively affect decision-making.
+<ul><ul>Wrong results may be produced during data analysis, which can negatively affect decision-making.</ul></ul>
+  
 
-- **Model Confusion:**
+<ul><ul><li><b>Model Confusion:</b></li></ul></ul>
   
-  Some models cannot handle missing values, causing the model to fail during training or make incorrect predictions.
+<ul><ul>Some models cannot handle missing values, causing the model to fail during training or make incorrect predictions.</ul></ul>
 
-- **Bias in the Model:**
-  
-  Missing values increase the risk of introducing bias into the model.
 
-- **Incorrect Interpretation of Data:**
+<ul><ul><li><b>Bias in the Model:</b></li></ul></ul>
   
-  Due to missing values, the available information may be incomplete or incorrect, leading to wrong interpretation of the data.
+<ul><ul>Missing values increase the risk of introducing bias into the model.</ul></ul>
+  
 
-- **Storage Issues:**
+<ul><ul><li><b>Incorrect Interpretation of Data:</b></li></ul></ul>
   
-  If missing values are not replaced, storage-related issues may occur because some systems cannot properly store missing values.
+<ul><ul>Due to missing values, the available information may be incomplete or incorrect, leading to wrong interpretation of the data.</ul></ul>
 
-- **Data Integration Problems:**
-  
-  When integrating data from different sources, missing values can create serious integration issues.
 
-- **Incorrect Feature Selection:**
+<ul><ul><li><b>Storage Issues:</b></li></ul></ul>
   
-  In the presence of missing values, some important features that should influence the model may be ignored.
+<ul><ul>If missing values are not replaced, storage-related issues may occur because some systems cannot properly store missing values.</ul></ul>
 
-- **Incorrect Experimental Results:**
+<ul><ul><li><b>Data Integration Problems:</b></li></ul></ul>
   
-  In scientific or research projects, missing values can lead to incorrect experimental outcomes.
+<ul><ul>When integrating data from different sources, missing values can create serious integration issues.</ul></ul>
+
+<ul><ul><li><b>Incorrect Feature Selection:</b></li></ul></ul>
+  
+<ul><ul>In the presence of missing values, some important features that should influence the model may be ignored.</ul></ul>
+
+<ul><ul><li><b>Incorrect Experimental Results:</b></li></ul></ul>
+  
+<ul><ul>In scientific or research projects, missing values can lead to incorrect experimental outcomes.</ul></ul>
 
 - **Stress and Extra Work:**
   
