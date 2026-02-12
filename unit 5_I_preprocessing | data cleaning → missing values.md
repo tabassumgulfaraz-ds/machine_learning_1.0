@@ -116,9 +116,9 @@ Having missing values is common in any dataset, but when deciding whether a colu
 
 <ul>If we ignore missing values, we may face many problems. Some of the issues that can arise are listed below:</ul>
 
-- **Decrease in Model Accuracy:**
+-- **Decrease in Model Accuracy:**
   
-  The accuracy of machine learning models can decrease because the model does not receive complete information.
+  <ul>The accuracy of machine learning models can decrease because the model does not receive complete information.</ul>
 
 - **Incorrect Analysis:**
   
