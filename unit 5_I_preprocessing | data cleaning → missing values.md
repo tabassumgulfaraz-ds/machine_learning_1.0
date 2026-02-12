@@ -17,23 +17,27 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### a. Install Libraries
 <ul>
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <!-- Live Jupyter Notebook (nbviewer) -->
+  <a href="https://nbviewer.org/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-Live%20Notebook-F37626?logo=jupyter&logoColor=white" />
-    <strong>Open Environment Setup Notebook (Live)</strong>
+    <strong>Open Preprocessing Notebook (Live)</strong>
   </a>
-  <br>
-  
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <br><br>
+
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
-    <strong>Open Environment Setup Notebook (Colab)</strong>
+    <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
-  <br>
-  
-  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <br><br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
-    <strong>Open Environment Setup Notebook (Kaggle)</strong>
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
 </ul>
+
 
 ### 1.1. Exploring/Identifying Missing Values in the Dataset
 
