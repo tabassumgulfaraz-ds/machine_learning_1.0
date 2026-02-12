@@ -638,10 +638,12 @@ Backward fill is a data imputation technique used to handle missing values, by r
 
 
 ### 1.11. Imputation of Missing Values Using scikit-learn Library
-<a href="https://scikit-learn.org/stable/modules/impute.html" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-Imputation%20Module-007ACC?logo=scikitlearn&logoColor=white" />
-  <strong>Open scikit-learn Impute Documentation</strong>
-</a>
+<ul>
+  <a href="https://scikit-learn.org/stable/modules/impute.html" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-Imputation%20Module-007ACC?logo=scikitlearn&logoColor=white" />
+    <strong>Open scikit-learn Impute Documentation</strong>
+  </a>
+</ul>
 
 - **importing libraries to check their version**
 <ul>
