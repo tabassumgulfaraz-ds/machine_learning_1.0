@@ -195,7 +195,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Using dropna method to remove rows with missing values
 
-**See more ways…**
+<ul>**See more ways…**</ul>
 
 
 ### 1.9. Impute age column missing values using forward fill method
