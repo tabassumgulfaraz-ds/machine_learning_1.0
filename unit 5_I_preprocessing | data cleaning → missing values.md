@@ -580,8 +580,17 @@ The process begins by identifying issues like missing values, duplicates and out
 </ul>
 
 <ul><b>See more ways</b></ul>
-[![Read Now](https://img.shields.io/badge/Read%20Article-Missing%20Values-007ACC?logo=html5&logoColor=white)](https://codanics.com/books/abc-of-statistics-for-data-science/Chapter6.html#missing-values)
-**ABC of Statistics for Data Science — Missing Values**
+<a href="https://codanics.com/books/abc-of-statistics-for-data-science/Chapter6.html#missing-values" target="_blank">
+  <img src="https://img.shields.io/badge/Codanics-Missing%20Values%20Chapter-2E8B57?logo=bookstack&logoColor=white" />
+  <strong>Open ABC of Statistics – Missing Values</strong>
+</a>
+
+<p align="left">
+  <a href="https://codanics.com/books/abc-of-statistics-for-data-science/Chapter6.html#missing-values" target="_blank">
+    <img src="https://img.shields.io/badge/ABC%20of%20Statistics-Chapter%206%20(Missing%20Values)-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
+
 
 
 ### 1.9. Impute age column missing values using forward fill method
