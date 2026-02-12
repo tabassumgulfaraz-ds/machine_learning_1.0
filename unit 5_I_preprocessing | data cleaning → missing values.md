@@ -699,18 +699,81 @@ There are **four types of imputation** for handling missing values:
 The **SimpleImputer** class provides basic strategies for imputing missing values. Univariate imputation is a missing-value handling approach in which missing values are filled using a single column's own information. As described, the SimpleImputer replaces missing values with a constant value or a statistical measure (mean, median, or most frequent) calculated from the same column where the missing values occur, without using information from other features.
 
 The SimpleImputer class also supports categorical data represented as string values or pandas categoricals when using the `'most_frequent'` or `'constant'` strategy.
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.11.2. Multivariate Feature Imputation (IterativeImputer)
 
 Multivariate feature imputation is an advanced missing-value handling technique in which the missing values of a feature are estimated using information from other related features in the dataset. Instead of treating each column independently, this approach models each feature with missing values as a function of the remaining features.
 
 Using the **IterativeImputer**, each feature is taken one by one as the target variable, while the other features are used as predictors. A regression model is trained on the observed values and then used to predict the missing values. This process is performed iteratively in multiple rounds, refining the estimates at each step, until the final imputed values are produced.
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.11.3. Nearest Neighbors Imputation (KNNImputer)
 
 Nearest Neighbors Imputation is a method for handling missing values, in which each missing feature value is estimated using the values of the **k nearest samples = rows (neighbors – data point)** that have observed values for that feature.
 
 Distances between samples = rows (data points) are computed using a **Euclidean metric** that supports missing values, and the imputed value is obtained by taking a uniform or distance-weighted average of the neighbors' feature values.
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.11.4. Marking Imputed Values (SimpleImputer, MissingIndicator)
 
@@ -745,6 +808,28 @@ MissingIndicator adds binary features that indicate which values were originally
 
 - It only marks missing positions
 - Imputation still fills the values
+
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 
 ### 1.12. Conclusion
