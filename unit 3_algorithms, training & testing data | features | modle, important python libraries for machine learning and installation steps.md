@@ -192,4 +192,31 @@ Kaggle comes with pre-installed packages. You can only use pip for additional pa
 
 
 
+https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb
+<a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/main?filepath=files_and_datasets/f_ds3/pytho_environment_setup_jupyter.ipynb" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-Live%20Notebook-F37626?logo=jupyter&logoColor=white" />
+  <strong>Open Environment Setup Notebook (Live)</strong>
+</a>
+
+<a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho_environment_setup_colab.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+  <strong>Open Environment Setup Notebook (Colab)</strong>
+</a>
+
+<a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds3/pytho-environment-setup-kaggle.ipynb" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+  <strong>Open Environment Setup Notebook (Kaggle)</strong>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
 
