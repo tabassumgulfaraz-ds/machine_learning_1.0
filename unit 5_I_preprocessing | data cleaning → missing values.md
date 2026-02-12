@@ -119,7 +119,8 @@ Having missing values is common in any dataset, but when deciding whether a colu
 
 <ul><ul><li><b>Decrease in Model Accuracy: </b></li></ul></ul>
   
-<ul>The accuracy of machine learning models can decrease because the model does not receive complete information.</ul>
+<ul><ul>The accuracy of machine learning models can decrease because the model does not receive complete information.</ul></ul>
+
 
 - **Incorrect Analysis:**
   
