@@ -208,25 +208,25 @@ Backward fill is a data imputation technique used to handle missing values, by r
 
 There are **four types of imputation** for handling missing values:
 
-### 1. Univariate Feature Imputation (SimpleImputer)
+### 1.11.1. Univariate Feature Imputation (SimpleImputer)
 
 The **SimpleImputer** class provides basic strategies for imputing missing values. Univariate imputation is a missing-value handling approach in which missing values are filled using a single column's own information. As described, the SimpleImputer replaces missing values with a constant value or a statistical measure (mean, median, or most frequent) calculated from the same column where the missing values occur, without using information from other features.
 
 The SimpleImputer class also supports categorical data represented as string values or pandas categoricals when using the `'most_frequent'` or `'constant'` strategy.
 
-### 2. Multivariate Feature Imputation (IterativeImputer)
+### 1.11.2. Multivariate Feature Imputation (IterativeImputer)
 
 Multivariate feature imputation is an advanced missing-value handling technique in which the missing values of a feature are estimated using information from other related features in the dataset. Instead of treating each column independently, this approach models each feature with missing values as a function of the remaining features.
 
 Using the **IterativeImputer**, each feature is taken one by one as the target variable, while the other features are used as predictors. A regression model is trained on the observed values and then used to predict the missing values. This process is performed iteratively in multiple rounds, refining the estimates at each step, until the final imputed values are produced.
 
-### 3. Nearest Neighbors Imputation (KNNImputer)
+### 1.11.3. Nearest Neighbors Imputation (KNNImputer)
 
 Nearest Neighbors Imputation is a method for handling missing values, in which each missing feature value is estimated using the values of the **k nearest samples = rows (neighbors – data point)** that have observed values for that feature.
 
 Distances between samples = rows (data points) are computed using a **Euclidean metric** that supports missing values, and the imputed value is obtained by taking a uniform or distance-weighted average of the neighbors' feature values.
 
-### 4. Marking Imputed Values (SimpleImputer, MissingIndicator)
+### 1.11.4. Marking Imputed Values (SimpleImputer, MissingIndicator)
 
 Marking imputed values means adding extra columns that show whether a value was originally missing or not.
 
@@ -236,7 +236,7 @@ The **MissingIndicator** transformer creates a binary matrix:
 
 This is useful because after imputation, the model cannot naturally know which values were originally missing. Sometimes, the fact that a value was missing itself carries important information.
 
-**Table: Marking Missing Values Example**
+**Table 1.11.4.4.** Marking Missing Values Example
 
 <table>
   <thead>
