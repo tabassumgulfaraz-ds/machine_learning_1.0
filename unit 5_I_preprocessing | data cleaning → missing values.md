@@ -15,7 +15,6 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 - **Removing duplicates:** Eliminating duplicate records to ensure each entry is unique and relevant.
 - **Correcting inconsistent formats:** Standardizing formats (e.g., date formats, string cases) to maintain consistency.
 
----
 
 ## 1.1. Exploring/Identifying Missing Values in the Dataset
 
@@ -27,7 +26,6 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 ### d. Method 4: DataFrame Info Missing Values Summary
 
----
 
 ## 1.2. Other Names of Missing Values
 
@@ -40,7 +38,6 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 - **Dummy Data:** Artificial or test data that does not represent real observations.
 - **Missing Data:** A general term used in statistics and research for unavailable values.
 
----
 
 ## 1.3. How to Identify Missing Values?
 
@@ -50,7 +47,6 @@ To identify missing values, we use some techniques. These techniques are called 
 - **Descriptive Statistics:** Missing values are identified by calculating the descriptive statistics of the data.
 - **Missingno Library:** Missing values are identified by using the Missingno library.
 
----
 
 ## 1.4. Why Is Handling Missing Values So Important?
 
@@ -58,7 +54,6 @@ To identify missing values, we use some techniques. These techniques are called 
 - **Questions on Data Quality:** Missing values weaken the quality of data, which can lead to misunderstandings and incorrect conclusions in our analysis and decision-making.
 - **Model Training Time Increases:** Sometimes, due to missing values, the model training time increases, resulting in a waste of both time and computational resources.
 
----
 
 ## 1.5. Deciding Whether to Remove a Column with Missing Values
 
@@ -88,7 +83,6 @@ Having missing values is common in any dataset, but when deciding whether a colu
   
   Generally, if more than **50%** of the data in a column is missing, you should consider whether removing that column would be a better option. However, this is not a hard-and-fast rule. Every dataset is unique and has different requirements. Therefore, the decision on how to handle missing values should always be made based on the context of the dataset.
 
----
 
 ## 1.6. Detailed Methods for Handling Missing Values
 
@@ -162,7 +156,6 @@ If we ignore missing values, we may face many problems. Some of the issues that 
   
   Data scientists may have to do extra work during analysis because missing values need to be identified and handled.
 
----
 
 ## 1.7. How to Perform Data Cleaning
 
@@ -173,7 +166,6 @@ The process begins by identifying issues like missing values, duplicates and out
 - **Manage Outliers:** Detect and handle extreme values that can skew results, either by removal or transformation.
 - **Handle Missing Data:** Address gaps using imputation, deletion or advanced techniques to maintain accuracy and integrity.
 
----
 
 ## 1.8. Dealing/Impute Missing Values Using Pandas Library
 
@@ -199,19 +191,16 @@ Embarked and embark_town are categorical columns with few missing values, we can
 
 **See more ways…**
 
----
 
 ## 1.9. Impute age column missing values using forward fill method
 
 Forward fill is a data imputation technique used to handle missing values, by replacing a missing value with the most recent non-missing value in rows that appears before it in the dataset.
 
----
 
 ## 1.10. Impute age column missing values using backward fill method
 
 Backward fill is a data imputation technique used to handle missing values, by replacing a missing value with the next available non-missing value in rows that appears after it in the dataset.
 
----
 
 ## 1.11. Imputation of Missing Values Using scikit-learn Library
 
@@ -271,7 +260,6 @@ MissingIndicator adds binary features that indicate which values were originally
 - It only marks missing positions
 - Imputation still fills the values
 
----
 
 ## 1.12. Conclusion
 
