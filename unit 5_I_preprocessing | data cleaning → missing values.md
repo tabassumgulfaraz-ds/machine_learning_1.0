@@ -17,19 +17,18 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### a. Install Libraries
 <ul>
-  <!-- Live Jupyter Notebook (nbviewer) -->
-  <a href="https://nbviewer.org/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-Live%20Notebook-F37626?logo=jupyter&logoColor=white" />
-    <strong>Open Preprocessing Notebook (Live)</strong>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a>
-  <br><br>
-
+  <br>
+  
   <!-- Open in Google Colab -->
   <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
-  <br><br>
+  <br>
 
   <!-- Open in Kaggle -->
   <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
