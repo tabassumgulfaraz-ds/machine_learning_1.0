@@ -110,12 +110,96 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 ### 1.1. Exploring/Identifying Missing Values in the Dataset
 
 #### a. Method 1: Missing Values Analysis
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### b. Method 2: Percentage of missing values
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### c. Method 3: Visualizing Missing Values
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### d. Method 4: DataFrame Info Missing Values Summary
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Preprocessing Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Preprocessing Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 
 ### 1.2. Other Names of Missing Values
