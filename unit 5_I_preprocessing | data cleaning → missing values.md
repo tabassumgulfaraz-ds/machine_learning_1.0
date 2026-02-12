@@ -21,6 +21,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
   <br>
   
   <!-- Open in Google Colab -->
