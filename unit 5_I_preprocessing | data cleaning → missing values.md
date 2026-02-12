@@ -580,6 +580,8 @@ The process begins by identifying issues like missing values, duplicates and out
 </ul>
 
 <ul><b>See more ways</b></ul>
+[![Read Now](https://img.shields.io/badge/Read%20Article-Missing%20Values-007ACC?logo=html5&logoColor=white)](https://codanics.com/books/abc-of-statistics-for-data-science/Chapter6.html#missing-values)
+**ABC of Statistics for Data Science — Missing Values**
 
 
 ### 1.9. Impute age column missing values using forward fill method
