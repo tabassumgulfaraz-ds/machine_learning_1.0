@@ -21,7 +21,6 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
     <img src="https://img.shields.io/badge/Jupyter-Live%20Notebook-F37626?logo=jupyter&logoColor=white" />
     <strong>Open Environment Setup Notebook (Live)</strong>
   </a>
-</ul>
   <br>
   
   <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
@@ -34,6 +33,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Environment Setup Notebook (Kaggle)</strong>
   </a>
+</ul>
 
 ### 1.1. Exploring/Identifying Missing Values in the Dataset
 
