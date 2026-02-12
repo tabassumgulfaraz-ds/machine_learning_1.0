@@ -175,9 +175,9 @@ The process begins by identifying issues like missing values, duplicates and out
 
 ### 1.8. Dealing/Impute Missing Values Using Pandas Library
 
-#### Calculate median for age column
+- #### Calculate median for age column
 
-Median is less affected by outliers as compared to mean.
+- Median is less affected by outliers as compared to mean.
 
 #### Mean or Median Imputation
 
@@ -191,7 +191,7 @@ Median is less affected by outliers as compared to mean.
 
 #### Mode Imputation for categorical columns
 
-Embarked and embark_town are categorical columns with few missing values, we can use Mode Imputation to fill missing values.
+#### Embarked and embark_town are categorical columns with few missing values, we can use Mode Imputation to fill missing values.
 
 #### Using dropna method to remove rows with missing values
 
