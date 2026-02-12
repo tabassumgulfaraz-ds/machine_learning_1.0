@@ -12,11 +12,11 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 #### 1.1.1. Numerical Data
 
-▪ **Example:** Age recorded as 25 (year) in one row and 250 (months) in another for the same person. If Age is greater than 100 consider as months.
+- **Example:** Age recorded as 25 (year) in one row and 250 (months) in another for the same person. If Age is greater than 100 consider as months.
 
-▪ **Issues:** Outliers, wrong units, conflicting measurements.
+- **Issues:** Outliers, wrong units, conflicting measurements.
 
-▪ **Cleaning Approach:** Apply validation rules, detect outliers, cross-check with reference ranges.
+- **Cleaning Approach:** Apply validation rules, detect outliers, cross-check with reference ranges.
 
 #### 1.1.2. Categorical / Text Data
 
