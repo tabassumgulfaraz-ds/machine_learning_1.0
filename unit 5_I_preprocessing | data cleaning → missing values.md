@@ -689,7 +689,11 @@ Backward fill is a data imputation technique used to handle missing values, by r
 
 There are **four types of imputation** for handling missing values:
 
-#### 1.11.1. Univariate Feature Imputation (SimpleImputer)
+#### 1.11.1. Univariate Feature Imputation (SimpleImputer) | <a href="https://scikit-learn.org/stable/modules/impute.html" target="_blank">
+  <img src="https://img.shields.io/badge/scikit--learn-Imputation%20Module-007ACC?logo=scikitlearn&logoColor=white" />
+  <strong>Open scikit-learn Impute Documentation</strong>
+</a>
+
 
 The **SimpleImputer** class provides basic strategies for imputing missing values. Univariate imputation is a missing-value handling approach in which missing values are filled using a single column's own information. As described, the SimpleImputer replaces missing values with a constant value or a statistical measure (mean, median, or most frequent) calculated from the same column where the missing values occur, without using information from other features.
 
