@@ -785,7 +785,7 @@ The **MissingIndicator** transformer creates a binary matrix:
 
 This is useful because after imputation, the model cannot naturally know which values were originally missing. Sometimes, the fact that a value was missing itself carries important information.
 
-**Table 1.11.4.4.** Marking Missing Values Example
+**Table 1.11.4.1.** Marking Missing Values Example
 
 <table>
   <thead>
