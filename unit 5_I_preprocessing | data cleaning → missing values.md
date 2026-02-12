@@ -838,3 +838,18 @@ MissingIndicator adds binary features that indicate which values were originally
 
 Dealing with missing values is certainly a challenge for every data scientist, but it also provides an important learning opportunity. It helps us understand how to improve data quality and make our datasets more reliable. In the end, high-quality data leads to more accurate, intelligent insights and better-performing models.
 
+
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%204_%20Data%20Pre-Processing%20Before%20ML%20Model.pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
+         alt="PDF Logo" 
+         width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit%204_%20Data%20Pre-Processing%20Before%20ML%20Model.pdf" target="_blank">
+    <b>Data Pre-Processing Before ML Model</b>
+  </a>
+</p>
+
