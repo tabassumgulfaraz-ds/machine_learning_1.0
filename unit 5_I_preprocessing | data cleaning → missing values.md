@@ -177,23 +177,23 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Calculate median for age column
 
-- Median is less affected by outliers as compared to mean.
+<ul> Median is less affected by outliers as compared to mean.</ul>
 
-#### Mean or Median Imputation
+- #### Mean or Median Imputation
 
-#### Drop or remove the deck column with high missing values
+- #### Drop or remove the deck column with high missing values
 
-#### Calculate mode for embarked column
+- #### Calculate mode for embarked column
 
-#### Calculate mode for embark_town column
+- #### Calculate mode for embark_town column
 
-#### Value counts for embarked columns
+- #### Value counts for embarked columns
 
-#### Mode Imputation for categorical columns
+- #### Mode Imputation for categorical columns
 
-#### Embarked and embark_town are categorical columns with few missing values, we can use Mode Imputation to fill missing values.
+- #### Embarked and embark_town are categorical columns with few missing values, we can use Mode Imputation to fill missing values.
 
-#### Using dropna method to remove rows with missing values
+- #### Using dropna method to remove rows with missing values
 
 **See more ways…**
 
