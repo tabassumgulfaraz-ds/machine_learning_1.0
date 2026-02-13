@@ -101,3 +101,11 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
     <b>Preprocessing | Data Cleaning → Data Inconsistencies/ Anomalies</b>
   </a>
 </p>
+
+
+
+
+
+
+
+https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb
