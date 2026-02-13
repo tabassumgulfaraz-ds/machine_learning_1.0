@@ -49,6 +49,29 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 - **Cleaning Approach:** Standardization, mapping to a canonical form, case normalization.
 
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
 #### 1.1.3. Date / Time Data
 
 - **Example:** 01/02/2025 in one row, 2025-02-01 in another (DD/MM/YYYY vs YYYY-MM-DD).
@@ -56,6 +79,29 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 - **Issues:** Different formats, wrong time zones, impossible dates (like 30 Feb).
 
 - **Cleaning Approach:** Convert to a unified format (ISO standard), detect invalid dates.
+
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.1.4. Boolean / Binary Data
 
@@ -65,6 +111,29 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 - **Cleaning Approach:** Map all values to a single consistent representation.
 
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
 #### 1.1.5. Multi-format / Mixed-type Columns
 
 - **Example:** Column Price having values "$100", 100, USD 100.
@@ -72,6 +141,29 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 - **Issues:** Numeric algorithms can't directly process strings.
 
 - **Cleaning Approach:** Strip non-numeric symbols, convert to float or integer.
+
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.1.6. Missing / Null Values
 
@@ -81,6 +173,29 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 - **Cleaning Approach:** Replace with a consistent placeholder, impute, or remove rows.
 
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
 #### 1.1.7. Duplicated / Redundant Records
 
 - **Example:** Two entries for the same customer with slight differences in spelling or address.
@@ -88,6 +203,29 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 - **Issues:** Biases statistical distributions, misleads ML models.
 
 - **Cleaning Approach:** Deduplication using fuzzy matching, key-based merging.
+
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.1.8. Logical Conflicts
 
@@ -97,19 +235,113 @@ In **data cleaning**, handling data inconsistencies means identifying and correc
 
 - **Cleaning Approach:** Recalculate dependent fields or flag errors for manual review.
 
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
 #### 1.1.9. Naming Conversion
 
 - U.S.A, USA, United State, United State of America
 
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
 #### 1.1.10. Typographical Mistake
 
 - James Taylor, james taylor
+
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 #### 1.1.11. Contradictory Data
 
 - Son age < father age (truth)
 
 - Son age > father age (not truth remove this contradictory inconsistency)
+
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
+
 
 <p align="center">
   <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit_5_II_Preprocessing%20I%20Data%20Cleaning%2C%20Data%20Inconsistencies%20or%20Anomalies.pdf" target="_blank">
