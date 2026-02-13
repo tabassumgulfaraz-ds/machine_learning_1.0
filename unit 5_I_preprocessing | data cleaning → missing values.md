@@ -579,7 +579,7 @@ The process begins by identifying issues like missing values, duplicates and out
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
 </ul>
-<br></br>
+<br>
 <ul>
   <a href="https://codanics.com/books/abc-of-statistics-for-data-science/Chapter6.html#missing-values" target="_blank">
     <img src="https://img.shields.io/badge/Codanics-Missing%20Values%20Chapter-2E8B57?logo=bookstack&logoColor=white" />
