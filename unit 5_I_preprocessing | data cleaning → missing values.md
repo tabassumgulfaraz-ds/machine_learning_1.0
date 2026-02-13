@@ -647,7 +647,6 @@ Backward fill is a data imputation technique used to handle missing values, by r
 
 - **importing libraries to check their version**
 <ul>
-<ul>
   <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
@@ -667,7 +666,6 @@ Backward fill is a data imputation technique used to handle missing values, by r
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
-</ul>
 </ul>
 
 - **import Simplelmputer from sklearn.impute**
