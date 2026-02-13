@@ -668,6 +668,7 @@ Backward fill is a data imputation technique used to handle missing values, by r
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
 </ul>
+</ul>
 
 - **import Simplelmputer from sklearn.impute**
 <ul>
