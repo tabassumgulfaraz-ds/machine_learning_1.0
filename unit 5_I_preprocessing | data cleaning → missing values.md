@@ -23,6 +23,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   </a><br>
   ⏳ This will take a few seconds or minutes, so you need to be patient.
   <br></br>
+  
   <!-- Open in Google Colab -->
   <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
@@ -39,7 +40,8 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### b. Import Libraries
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -47,14 +49,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -62,7 +64,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### c.	Load Dataset (Seaborn Library or Local Directory
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -70,14 +72,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -85,7 +87,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### d.	Display first 5 rows of the dataset
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -93,14 +95,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -110,7 +112,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### a. Method 1: Missing Values Analysis
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -118,14 +120,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -133,7 +135,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### b. Method 2: Percentage of missing values
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -141,14 +143,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -156,7 +158,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### c. Method 3: Visualizing Missing Values
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -164,14 +166,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -179,7 +181,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 
 #### d. Method 4: DataFrame Info Missing Values Summary
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -187,14 +189,14 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -221,7 +223,7 @@ To identify missing values, we use some techniques. These techniques are called 
 - **Descriptive Statistics:** Missing values are identified by calculating the descriptive statistics of the data.
 - **Missingno Library:** Missing values are identified by using the Missingno library.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -229,14 +231,14 @@ To identify missing values, we use some techniques. These techniques are called 
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -373,7 +375,7 @@ The process begins by identifying issues like missing values, duplicates and out
 - #### Calculate median for age column
 <ul> Median is less affected by outliers as compared to mean.</ul>
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -381,14 +383,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -396,7 +398,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Mean or Median Imputation
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -404,14 +406,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -419,7 +421,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Drop or remove the deck column with high missing values
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -427,14 +429,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -442,7 +444,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Calculate mode for embarked column
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -450,14 +452,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -465,7 +467,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Calculate mode for embark_town column
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -473,14 +475,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -488,7 +490,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Value counts for embarked columns
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -496,14 +498,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -511,7 +513,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Mode Imputation for categorical columns
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -519,14 +521,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -534,7 +536,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Embarked and embark_town are categorical columns with few missing values, we can use Mode Imputation to fill missing values.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -542,14 +544,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -557,7 +559,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 - #### Using dropna method to remove rows with missing values
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -565,14 +567,14 @@ The process begins by identifying issues like missing values, duplicates and out
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -589,7 +591,7 @@ The process begins by identifying issues like missing values, duplicates and out
 
 Forward fill is a data imputation technique used to handle missing values, by replacing a missing value with the most recent non-missing value in rows that appears before it in the dataset.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -597,14 +599,14 @@ Forward fill is a data imputation technique used to handle missing values, by re
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -614,7 +616,7 @@ Forward fill is a data imputation technique used to handle missing values, by re
 
 Backward fill is a data imputation technique used to handle missing values, by replacing a missing value with the next available non-missing value in rows that appears after it in the dataset.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -622,19 +624,18 @@ Backward fill is a data imputation technique used to handle missing values, by r
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
 </ul>
-
 
 ### 1.11. Imputation of Missing Values Using scikit-learn Library
 <ul>
@@ -646,7 +647,8 @@ Backward fill is a data imputation technique used to handle missing values, by r
 
 - **importing libraries to check their version**
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+<ul>
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -654,14 +656,14 @@ Backward fill is a data imputation technique used to handle missing values, by r
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -669,7 +671,7 @@ Backward fill is a data imputation technique used to handle missing values, by r
 
 - **import Simplelmputer from sklearn.impute**
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -677,14 +679,14 @@ Backward fill is a data imputation technique used to handle missing values, by r
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -699,7 +701,7 @@ The **SimpleImputer** class provides basic strategies for imputing missing value
 
 The SimpleImputer class also supports categorical data represented as string values or pandas categoricals when using the `'most_frequent'` or `'constant'` strategy.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -707,14 +709,14 @@ The SimpleImputer class also supports categorical data represented as string val
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -726,7 +728,7 @@ Multivariate feature imputation is an advanced missing-value handling technique 
 
 Using the **IterativeImputer**, each feature is taken one by one as the target variable, while the other features are used as predictors. A regression model is trained on the observed values and then used to predict the missing values. This process is performed iteratively in multiple rounds, refining the estimates at each step, until the final imputed values are produced.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -734,14 +736,14 @@ Using the **IterativeImputer**, each feature is taken one by one as the target v
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -753,7 +755,7 @@ Nearest Neighbors Imputation is a method for handling missing values, in which e
 
 Distances between samples = rows (data points) are computed using a **Euclidean metric** that supports missing values, and the imputed value is obtained by taking a uniform or distance-weighted average of the neighbors' feature values.
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -761,14 +763,14 @@ Distances between samples = rows (data points) are computed using a **Euclidean 
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
@@ -809,7 +811,7 @@ MissingIndicator adds binary features that indicate which values were originally
 - Imputation still fills the values
 
 <ul>
-  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://mybinder.org/badge_logo.svg" />
     <strong>Open Preprocessing Notebook (Live Jupyter - Binder)</strong>
   </a><br>
@@ -817,14 +819,14 @@ MissingIndicator adds binary features that indicate which values were originally
   <br></br>
   
   <!-- Open in Google Colab -->
-  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
     <strong>Open Preprocessing Notebook (Colab)</strong>
   </a>
   <br>
 
   <!-- Open in Kaggle -->
-  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds4/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_I/preprocessing_datacleaning_missingvalues.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
     <strong>Open Preprocessing Notebook (Kaggle)</strong>
   </a>
