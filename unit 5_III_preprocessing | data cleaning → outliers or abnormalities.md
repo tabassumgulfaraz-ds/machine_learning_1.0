@@ -451,6 +451,9 @@ The formula for Z-Score is:
 In **machine learning**, the **Interquartile Range (IQR)** method is a simple and effective statistical technique to detect **outliers** in a dataset.
 
 The interquartile range, in short **IQR**, is a measure of **descriptive statistics**, which determines the range between the lower and the upper quartile, which can also be described as the middle 50% of a sample. A quartile is a type of **quantile**, which divides a sample into 4 same-sized groups of 25% each.
+<p align="center">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot2dot1.png" alt="Demo Image" width="600">
+</p>
 
 **Figure 1.6.2.1.** Quartile division of a sample illustrating Q1, median (Q2), and Q3 under the IQR framework.
 
