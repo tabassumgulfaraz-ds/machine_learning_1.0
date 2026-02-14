@@ -2,7 +2,7 @@
 
 # PREPROCESSING | DATA CLEANING → OUTLIERS/ABNORMALITIES
 
-## 1. Outliers/Abnormalities
+### 1. Outliers/Abnormalities
 
 In machine learning, **outliers are data points that deviate significantly from the general distribution of the dataset.** They are unusual observations that don't follow the expected pattern of the majority of your data.
 
@@ -20,12 +20,10 @@ Other names for outliers include **deviants, abnormalities, anomalies** (or **an
 
 ▪ **Red arrows** = Point to the unusual observations
 
----
 
 **Figure 1.2.** Impact Of Outliers on Data Distribution. Left: Outliers Distort Statistical Measures. Right: Clean Data After Outlier Removal.
 
-### LEFT SIDE (With Outliers)
-
+**LEFT SIDE (With Outliers)**  
 ▪ Shows data distribution including extreme outlier values (2, 5, 95, 100)
 
 ▪ Red triangles mark the outliers
@@ -34,8 +32,7 @@ Other names for outliers include **deviants, abnormalities, anomalies** (or **an
 
 ▪ Red dashed line shows how outliers skew the average
 
-### RIGHT SIDE (Without Outliers)
-
+**RIGHT SIDE (Without Outliers)**  
 ▪ Shows the same data after removing outliers
 
 ▪ Mean and median are now close together
