@@ -20,7 +20,12 @@ Other names for outliers include **deviants, abnormalities, anomalies** (or **an
 
 - **Red arrows** = Point to the unusual observations
 
-
+<!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
+<ul>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit4/figure_2dot1.png" alt="Demo Image" width="600">
+</p>
+</ul>
 **Figure 1.2.** Impact Of Outliers on Data Distribution. Left: Outliers Distort Statistical Measures. Right: Clean Data After Outlier Removal.
 
 **LEFT SIDE (With Outliers)**  
