@@ -181,7 +181,6 @@ These are **individual data points that are completely different from the rest o
 
 **Figure 1.3.5.1.** Point Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.6. Contextual Outliers
 
@@ -195,7 +194,6 @@ These are outliers that are abnormal in a **specific context.**
 
 **Figure 1.3.6.1.** Contextual Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.7. Collective Outliers
 
@@ -209,7 +207,6 @@ This is a **group of data points** that may be **individually normal** but are *
 
 **Figure 1.3.7.1.** Collective Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.8. Recurrent Outliers
 
@@ -223,7 +220,6 @@ These are outliers that **occur repeatedly.**
 
 **Figure 1.3.8.1.** Recurrent Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.9. Periodic Outliers
 
@@ -237,7 +233,6 @@ A **periodic outlier** is a data point or pattern that appears extreme but **occ
 
 **Figure 1.3.9.1.** Periodic Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ## 1.4. Causes of Outliers
 
@@ -285,7 +280,6 @@ In the real world, there are some genuine unusual events or cases that are natur
 
 For example, the sudden spike in hospital visits during the COVID-19 pandemic, or an athlete's exceptional performance that breaks records - these are natural outliers that are genuine and represent real phenomena.
 
----
 
 ## 1.5. Why should we care about Outliers?
 
@@ -335,7 +329,6 @@ The quality of our data products decreases due to outliers. By identifying them,
 
 The quality of our data science decreases due to outliers. By identifying them, we can do better data science.
 
----
 
 ## 1.6. Detect and Remove Outliers
 
@@ -358,7 +351,6 @@ To identify outliers, we use some techniques. We call these techniques 'Outlier 
 
 We will only look at **Z-Score, IQR,** and **K-Means Clustering.**
 
----
 
 ### 1.6.1. Z – Score Method
 
@@ -370,17 +362,17 @@ The formula for Z-Score is:
 
 **Where:**
 
-▪ **Z** – is the Z-Score
+- **Z** – is the Z-Score
 
-▪ **x** – is the data point
+- **x** – is the data point
 
-▪ **μ** – is the mean of the data
+- **μ** – is the mean of the data
 
-▪ **σ** – is the standard deviation of the data
+- **σ** – is the standard deviation of the data
 
-▪ **(x - μ):** is the difference between the data point and the mean
+- **(x - μ):** is the difference between the data point and the mean
 
-▪ **Z** – is the difference between the data point and the mean in terms of standard deviations
+- **Z** – is the difference between the data point and the mean in terms of standard deviations
 
 **Figure 1.6.1.1.** Normal Distribution and Z-Score Standardization
 
@@ -408,7 +400,6 @@ The formula for Z-Score is:
 | 2 to 3 | 2-3 SDs above the mean | Not an outlier (threshold) |
 | > 3 | More than 3 SDs above the mean | Outlier |
 
----
 
 ### 1.6.2. Interquartile Range (IQR)
 
@@ -422,11 +413,11 @@ The interquartile range, in short **IQR**, is a measure of **descriptive statist
 
 **Outlier Detection using IQR**
 
-▪ **Lower Bound = Q1 - 1.5 × IQR**
+- **Lower Bound = Q1 - 1.5 × IQR**
 
-▪ **Upper Bound = Q3 + 1.5 × IQR**
+- **Upper Bound = Q3 + 1.5 × IQR**
 
-▪ Any data point below the Lower Bound or above the Upper Bound is considered an outlier.
+- Any data point below the Lower Bound or above the Upper Bound is considered an outlier.
 
 IQR measures the spread of the middle 50% of the data.
 
@@ -438,23 +429,23 @@ The formula for IQR is:
 
 **Where:**
 
-▪ **IQR** = is the Interquartile Range
+- **IQR** = is the Interquartile Range
 
-▪ **Q1** = 25th percentile (lower quartile i.e., first quartile)
+- **Q1** = 25th percentile (lower quartile i.e., first quartile)
 
-▪ **Q3** = 75th percentile (upper quartile i.e., third quartile)
+- **Q3** = 75th percentile (upper quartile i.e., third quartile)
 
-▪ **(Q3 - Q1)** = is the difference between the third quartile and the first quartile
+- **(Q3 - Q1)** = is the difference between the third quartile and the first quartile
 
 **Outlier Rule**
 
-▪ **Lower bound = Q1 − 1.5 × IQR**
+- **Lower bound = Q1 − 1.5 × IQR**
 
-▪ **Upper bound = Q3 + 1.5 × IQR**
+- **Upper bound = Q3 + 1.5 × IQR**
 
-▪ Any value outside these bounds is considered an outlier.
+- Any value outside these bounds is considered an outlier.
 
-#### 1.6.2.1. Properties of IQR
+### 1.6.2.1. Properties of IQR
 
 1. IQR represents the range of the middle 50% of the data.
 
@@ -464,7 +455,6 @@ The formula for IQR is:
 
 **Figure 1.6.2.3.** Boxplot showing the five-number summary and distribution skewness of the dataset.
 
----
 
 ### 1.6.3. Clustering Method (K-Means)
 
@@ -476,9 +466,8 @@ Then we remove the data points that are farthest from the centroid of the cluste
 
 **Figure 1.6.3.1.** Outliers' detection - Illustration
 
----
 
-## 1.7. Handling Outliers
+### 1.7. Handling Outliers
 
 To handle outliers, we use some techniques. We call these techniques 'Outlier Handling Techniques'. Some of these techniques are given below:
 
@@ -502,7 +491,6 @@ In some use-cases, it's beneficial to treat outliers separately rather than remo
 
 Some of the statistical methods to analyze and model the data are less sensitive to outliers and provide more accurate results in the data.
 
----
 
 ## 1.8. Conclusion
 
