@@ -12,34 +12,34 @@ Other names for outliers include **deviants, abnormalities, anomalies** (or **an
 
 **Figure 1.1.** Visual Representation of Outliers in Machine Learning. Outliers (Red Circles) Are Data Points That Deviate Significantly from Normal Data Clusters (Green Dots).
 
-▪ **Green dots** = Normal data points that follow the expected pattern
+- **Green dots** = Normal data points that follow the expected pattern
 
-▪ **Cluster 1 & 2** = Most data naturally group together (normal distribution)
+- **Cluster 1 & 2** = Most data naturally group together (normal distribution)
 
-▪ **Red circles** = Outliers - data points that are far away from the main clusters
+- **Red circles** = Outliers - data points that are far away from the main clusters
 
-▪ **Red arrows** = Point to the unusual observations
+- **Red arrows** = Point to the unusual observations
 
 
 **Figure 1.2.** Impact Of Outliers on Data Distribution. Left: Outliers Distort Statistical Measures. Right: Clean Data After Outlier Removal.
 
 **LEFT SIDE (With Outliers)**  
-▪ Shows data distribution including extreme outlier values (2, 5, 95, 100)
+- Shows data distribution including extreme outlier values (2, 5, 95, 100)
 
-▪ Red triangles mark the outliers
+- Red triangles mark the outliers
 
-▪ Mean is **distorted** and pulled away from the true center
+- Mean is **distorted** and pulled away from the true center
 
-▪ Red dashed line shows how outliers skew the average
+- Red dashed line shows how outliers skew the average
 
 **RIGHT SIDE (Without Outliers)**  
-▪ Shows the same data after removing outliers
+- Shows the same data after removing outliers
 
-▪ Mean and median are now close together
+- Mean and median are now close together
 
-▪ Represents the data **accurately**
+- Represents the data **accurately**
 
-▪ Clean, reliable distribution
+- Clean, reliable distribution
 
 **a. Impact on ML models:** Can bias parameter estimation, increase variance and reduce model accuracy.
 
@@ -59,55 +59,52 @@ In the context of age categorization, an outlier occurs when a person's age does
 
 This chart displays all four age categories on a single graph, making it easy to compare outlier patterns across categories.
 
-▪ **X-axis:** Four age categories (Child, Teenager, Adult, Senior)
+- **X-axis:** Four age categories (Child, Teenager, Adult, Senior)
 
-▪ **Y-axis:** Age values from 0 to 100 years (marked at intervals: 0, 20, 40, 60, 80, 100)
+- **Y-axis:** Age values from 0 to 100 years (marked at intervals: 0, 20, 40, 60, 80, 100)
 
-▪ **Green circles:** Normal/valid data points that fall within the correct age range
+- **Green circles:** Normal/valid data points that fall within the correct age range
 
-▪ **Red X markers:** Outliers that fall outside the valid range
+- **Red X markers:** Outliers that fall outside the valid range
 
----
 
 **Figure 1.4.** Category-wise age outlier breakdown with valid ranges (green areas) and outlier statistics for each age group.
 
 This chart breaks down each category into separate panels for detailed analysis of outliers in each age group.
 
-▪ **Four separate panels:** One for each age category
+- **Four separate panels:** One for each age category
 
-▪ **Green shaded area:** Highlights the valid age range for that category
+- **Green shaded area:** Highlights the valid age range for that category
 
-▪ **Statistics shown:** Number of normal records vs. outliers for each category
+- **Statistics shown:** Number of normal records vs. outliers for each category
 
-▪ **Green box annotation:** Shows the exact valid range in years
+- **Green box annotation:** Shows the exact valid range in years
 
----
 
-## 1.1. Reasons That Can Cause Outliers
+### 1.1. Reasons That Can Cause Outliers
 
-2. Data collection mistakes.
+1. Data collection mistakes.
 
-3. If the data is collected by a machine, the machine may have a problem or malfunction.
+2. If the data is collected by a machine, the machine may have a problem or malfunction.
 
-4. Typographical mistakes.
+2. Typographical mistakes.
 
-5. Issues with measurement or measuring instruments in the original data.
+4. Issues with measurement or measuring instruments in the original data.
 
-6. Data entry errors.
+5. Data entry errors.
 
-7. Sampling errors.
+6. Sampling errors.
 
-8. Natural variation in the data.
+7. Natural variation in the data.
 
-9. Incorrect data processing or coding errors.
+8. Incorrect data processing or coding errors.
 
-10. Experimental errors.
+9. Experimental errors.
 
-11. Fraudulent or intentionally altered data.
+10. Fraudulent or intentionally altered data.
 
----
 
-## 1.2. Why Identifies Outliers?
+### 1.2. Why Identifies Outliers?
 
 1. **Machine learning models may not perform properly** – Outliers can reduce model accuracy and distort predictions.
 
