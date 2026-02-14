@@ -1,3 +1,52 @@
+UNIT 5_III  
+PREPROCESSING | DATA CLEANING → OUTLIERS/ABNORMALITIES  
+1.	Outliers/Abnormalities  
+1.1.	Reasons That Can Cause Outliers  
+1.2.	Why Identifies Outliers?  
+1.3.	Types of Outliers  
+1.3.1.	Univariable Outlier  
+1.3.2.	Multivariate Outlier  
+1.3.3.	Global Outlier	74
+1.3.4.	Local (Contextual) Outlier	75
+1.3.5.	Point Outliers	77
+1.3.6.	Contextual Outliers	79
+1.3.7.	Collective Outliers	81
+1.3.8.	Recurrent Outliers	83
+1.3.9.	Periodic Outliers	85
+1.4.	Causes of Outliers	86
+1.4.1.	Data Entry Errors	86
+1.4.2.	Measurement Errors	87
+1.4.3.	Experimental Errors	87
+1.4.4.	Intentional Outliers	87
+1.4.5.	Data Processing Errors	87
+1.4.6.	Sampling Errors	87
+1.4.7.	Natural Outliers	87
+1.5.	Why should we care about Outliers?	88
+1.5.1.	Hidden Clues	88
+1.5.2.	Data Quality	88
+1.5.3.	Impact Analysis	88
+1.5.4.	Better Decisions	88
+1.5.5.	Better Models	88
+1.5.6.	Better Insights	89
+1.5.7.	Better Visualization	89
+1.5.8.	Better Storytelling	89
+1.5.9.	Better Data Products	89
+1.5.10.	Better Data Science	89
+1.6.	Detect and Remove Outliers	89
+1.6.1.	Z – Score Method	90
+1.6.1.1.	Properties of Z-Score	90
+1.6.2.	Interquartile Range (IQR)	91
+1.6.2.1.	Properties of IQR	93
+1.6.3.	Clustering Method (K-Means)	94
+1.7.	Handling Outliers	95
+1.7.1.	Removing the outlier	95
+1.7.2.	Transforming and binning values	95
+1.7.3.	Imputation	96
+1.7.4.	Separate treatment	96
+1.7.5.	Robust Statistical Methods	96
+1.8.	Conclusion	96
+
+---
 # UNIT 5_III
 
 # PREPROCESSING | DATA CLEANING → OUTLIERS/ABNORMALITIES
