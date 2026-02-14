@@ -2,7 +2,7 @@
 
 # PREPROCESSING | DATA CLEANING → OUTLIERS/ABNORMALITIES
 
-### 1. Outliers/Abnormalities
+## 1. Outliers/Abnormalities
 
 In machine learning, **outliers are data points that deviate significantly from the general distribution of the dataset.** They are unusual observations that don't follow the expected pattern of the majority of your data.
 
