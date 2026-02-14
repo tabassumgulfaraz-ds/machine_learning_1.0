@@ -64,6 +64,9 @@ Outliers are a type of data that can provide meaningful results, though they are
 
 In the context of age categorization, an outlier occurs when a person's age doesn't match their assigned age group.
 
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3.png" alt="Demo Image" width="600">
+</p>
 **Figure 1.3.** Age outlier detection showing normal data (green circles) and outliers (red X) across four age categories in Islamabad city.
 
 This chart displays all four age categories on a single graph, making it easy to compare outlier patterns across categories.
@@ -76,7 +79,9 @@ This chart displays all four age categories on a single graph, making it easy to
 
 - **Red X markers:** Outliers that fall outside the valid range
 
-
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure1dot4.png" alt="Demo Image" width="600">
+</p>
 **Figure 1.4.** Category-wise age outlier breakdown with valid ranges (green areas) and outlier statistics for each age group.
 
 This chart breaks down each category into separate panels for detailed analysis of outliers in each age group.
@@ -133,9 +138,17 @@ A Univariate outlier is an extreme value that **relates to just one variable.**
 These are outliers that **occur in only one variable.**
 
 **Example:** If your data has only an age variable and someone's age is 150 years which is very unlikely, then this would be a univariate outlier.
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table1dot3dot1dot1.png" alt="Demo Image" width="600">
+</p>
 
 **Table 1.3.1.1.** Univariate Outlier – Data Table
-
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot1dot1_I.png" alt="Demo Image" width="600">
+</p>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot1dot1_II.png" alt="Demo Image" width="600">
+</p>
 **Figure 1.3.1.1.** Univariate Outlier – Box Plot, Distribution View and Bar Chart
 
 
