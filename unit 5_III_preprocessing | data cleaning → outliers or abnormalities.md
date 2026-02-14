@@ -151,6 +151,7 @@ These are outliers that **occur in only one variable.**
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot1dot1_II.png" alt="Demo Image" width="600">
 </p>
+
 **Figure 1.3.1.1.** Univariate Outlier – Box Plot, Distribution View and Bar Chart
 
 
@@ -161,8 +162,18 @@ A multivariate outlier is a combination of unusual or extreme result for **at le
 These are outliers that occur in a **combination of more than one variable.**
 
 **Example:** A person's age is 25 years but income is 10 million - this combination is unusual and can be a multivariate outlier (but confirmation is necessary).
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot2dot1.png" alt="Demo Image" width="600">
+</p>
 
 **Table 1.3.2.1.** Multivariate Outlier – Data Table
+
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot2dot1_I.png" alt="Demo Image" width="600">
+</p>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot2dot1_II.png" alt="Demo Image" width="600">
+</p>
 
 **Figure 1.3.2.1.** Multivariate Outlier – Box Plot, Distribution View and Bar Chart
 
