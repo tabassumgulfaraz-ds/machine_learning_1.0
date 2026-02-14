@@ -234,7 +234,7 @@ A **periodic outlier** is a data point or pattern that appears extreme but **occ
 **Figure 1.3.9.1.** Periodic Outlier – Box Plot, Distribution View and Bar Chart
 
 
-## 1.4. Causes of Outliers
+### 1.4. Causes of Outliers
 
 Outliers can be caused by anything. Some common causes are given below:
 
@@ -281,7 +281,7 @@ In the real world, there are some genuine unusual events or cases that are natur
 For example, the sudden spike in hospital visits during the COVID-19 pandemic, or an athlete's exceptional performance that breaks records - these are natural outliers that are genuine and represent real phenomena.
 
 
-## 1.5. Why should we care about Outliers?
+### 1.5. Why should we care about Outliers?
 
 Here you can see a complete understanding about outliers in this figure.
 
@@ -330,7 +330,7 @@ The quality of our data products decreases due to outliers. By identifying them,
 The quality of our data science decreases due to outliers. By identifying them, we can do better data science.
 
 
-## 1.6. Detect and Remove Outliers
+### 1.6. Detect and Remove Outliers
 
 To identify outliers, we use some techniques. We call these techniques 'Outlier Detection Techniques'. Some of these techniques are given below:
 
@@ -492,7 +492,7 @@ In some use-cases, it's beneficial to treat outliers separately rather than remo
 Some of the statistical methods to analyze and model the data are less sensitive to outliers and provide more accurate results in the data.
 
 
-## 1.8. Conclusion
+### 1.8. Conclusion
 
 1. Outliers in a dataset are observations that deviate dramatically from the rest of the data points. They might arise as a result of data gathering mistakes or abnormalities, or they can be real findings that are just infrequent or extraordinary.
 
