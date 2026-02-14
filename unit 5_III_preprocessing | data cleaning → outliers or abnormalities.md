@@ -140,11 +140,12 @@ A Univariate outlier is an extreme value that **relates to just one variable.**
 These are outliers that **occur in only one variable.**
 
 **Example:** If your data has only an age variable and someone's age is 150 years which is very unlikely, then this would be a univariate outlier.
+
+**Table 1.3.1.1.** Univariate Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table1dot3dot1dot1.png" alt="Demo Image" width="600">
 </p>
 
-**Table 1.3.1.1.** Univariate Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot1dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -162,11 +163,11 @@ A multivariate outlier is a combination of unusual or extreme result for **at le
 These are outliers that occur in a **combination of more than one variable.**
 
 **Example:** A person's age is 25 years but income is 10 million - this combination is unusual and can be a multivariate outlier (but confirmation is necessary).
+
+**Table 1.3.2.1.** Multivariate Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot2dot1.png" alt="Demo Image" width="600">
 </p>
-
-**Table 1.3.2.1.** Multivariate Outlier – Data Table
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot2dot1_I.png" alt="Demo Image" width="600">
@@ -185,11 +186,11 @@ A global outlier is a **data point that shows an unusual or extreme result** whe
 These are outliers that are abnormal in the context of the entire dataset.
 
 **Example:** If the average height of students in a school is 5 feet, and one student's height is 11 feet, then this would be a global outlier.
+
+**Table 1.3.3.1.** Global Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot3dot1.png" alt="Demo Image" width="600">
 </p>
-
-**Table 1.3.3.1.** Global Outlier – Data Table
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot3dot1_I.png" alt="Demo Image" width="600">
@@ -208,11 +209,11 @@ A local (contextual) outlier is a data point that shows an unusual or extreme re
 These are outliers that are abnormal only in the context of a specific cluster or group.
 
 **Example:** In summer, a temperature of 35°C is normal, but 35°C in January would be a local outlier based on the winter season in Pakistan.
+
+**Table 1.3.4.1.** Local (Contextual) Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot4dot1.png" alt="Demo Image" width="600">
 </p>
-
-**Table 1.3.4.1.** Local (Contextual) Outlier – Data Table
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot4dot1_I.png" alt="Demo Image" width="600">
@@ -231,11 +232,11 @@ A point outlier is a **single data point that shows an unusual or extreme value 
 These are **individual data points that are completely different from the rest of the data.**
 
 **Example:** In a class, all students' marks are between 60-80/100, but one student's marks are 2/100 - this is a point outlier.
+
+**Table 1.3.5.1.** Point Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot5dot1.png" alt="Demo Image" width="600">
 </p>
-
-**Table 1.3.5.1.** Point Outlier – Data Table
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot5dot1_I.png" alt="Demo Image" width="600">
@@ -254,11 +255,11 @@ A **contextual outlier** is a data point that appears normal in general but beco
 These are outliers that are abnormal in a **specific context.**
 
 **Example:** A $10 transaction on a credit card is normal, but a $10,000 transaction at 3 AM could be a contextual outlier which banks use fraud detection applications for.
+
+**Table 1.3.6.1.** Contextual Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot6dot1.png" alt="Demo Image" width="600">
 </p>
-
-**Table 1.3.6.1.** Contextual Outlier – Data Table
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot6dot1_I.png" alt="Demo Image" width="600">
@@ -277,11 +278,11 @@ A **collective outlier** is a group of data points that **may appear normal when
 This is a **group of data points** that may be **individually normal** but are **collectively abnormal.**
 
 **Example:** If a website suddenly receives 1000 visits from the same IP address in one day, this is a collective outlier (possible bot attack or DDoS (Distributed Denial of Service) attack).
+
+**Table 1.3.7.1.** Collective Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot7dot1.png" alt="Demo Image" width="600">
 </p>
-
-**Table 1.3.7.1.** Collective Outlier – Data Table
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot7dot1_I.png" alt="Demo Image" width="600">
@@ -300,11 +301,12 @@ A **recurrent outlier** is a data point or pattern that appears unusual but **oc
 These are outliers that **occur repeatedly.**
 
 **Example:** Money comes into someone's salary account on the 1st of every month - this is a recurring pattern.
+
+**Table 1.3.8.1.** Recurrent Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot8dot1.png" alt="Demo Image" width="600">
 </p>
 
-**Table 1.3.8.1.** Recurrent Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot8dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -322,11 +324,12 @@ These are outliers that occur **regularly in a specific period.**
 A **periodic outlier** is a data point or pattern that appears extreme but **occurs regularly during a specific time period or season.**
 
 **Example:** On Black Friday or Eid, shopping websites have very high traffic - this is a periodic outlier and cannot be compared with regular days.
+
+**Table 1.3.9.1.** Periodic Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot9dot1.png" alt="Demo Image" width="600">
 </p>
 
-**Table 1.3.9.1.** Periodic Outlier – Data Table
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot9dot1_I.png" alt="Demo Image" width="600">
 </p>
