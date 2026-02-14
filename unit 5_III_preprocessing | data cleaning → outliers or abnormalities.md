@@ -185,8 +185,18 @@ A global outlier is a **data point that shows an unusual or extreme result** whe
 These are outliers that are abnormal in the context of the entire dataset.
 
 **Example:** If the average height of students in a school is 5 feet, and one student's height is 11 feet, then this would be a global outlier.
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot3dot1.png" alt="Demo Image" width="600">
+</p>
 
 **Table 1.3.3.1.** Global Outlier – Data Table
+
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot3dot1_I.png" alt="Demo Image" width="600">
+</p>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot3dot1_II.png" alt="Demo Image" width="600">
+</p>
 
 **Figure 1.3.3.1.** Global Outlier – Box Plot, Distribution View and Bar Chart
 
