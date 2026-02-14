@@ -106,17 +106,16 @@ This chart breaks down each category into separate panels for detailed analysis 
 
 ### 1.2. Why Identifies Outliers?
 
-1. **Machine learning models may not perform properly** – Outliers can reduce model accuracy and distort predictions.
+**1.** **Machine learning models may not perform properly** – Outliers can reduce model accuracy and distort predictions.
 
-2. **They pull the center (mean/median) toward themselves** – Extreme values can shift measures of central tendency.
+**2.** **They pull the center (mean/median) toward themselves** – Extreme values can shift measures of central tendency.
 
-3. **They create skewness in the data** – Outliers can make the distribution uneven or biased.
+**3.** **They create skewness in the data** – Outliers can make the distribution uneven or biased.
 
-4. **They lead to incorrect results** – Statistical analysis may give misleading conclusions.
+**4.** **They lead to incorrect results** – Statistical analysis may give misleading conclusions.
 
----
 
-## 1.3. Types of Outliers
+### 1.3. Types of Outliers
 
 ### 1.3.1. Univariable Outlier
 
