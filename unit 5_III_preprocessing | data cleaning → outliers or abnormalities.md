@@ -117,7 +117,7 @@ This chart breaks down each category into separate panels for detailed analysis 
 
 ### 1.3. Types of Outliers
 
-### 1.3.1. Univariable Outlier
+#### 1.3.1. Univariable Outlier
 
 A Univariate outlier is an extreme value that **relates to just one variable.**
 
@@ -129,9 +129,8 @@ These are outliers that **occur in only one variable.**
 
 **Figure 1.3.1.1.** Univariate Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
-### 1.3.2. Multivariate Outlier
+#### 1.3.2. Multivariate Outlier
 
 A multivariate outlier is a combination of unusual or extreme result for **at least two variables.**
 
@@ -143,7 +142,6 @@ These are outliers that occur in a **combination of more than one variable.**
 
 **Figure 1.3.2.1.** Multivariate Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.3. Global Outlier
 
