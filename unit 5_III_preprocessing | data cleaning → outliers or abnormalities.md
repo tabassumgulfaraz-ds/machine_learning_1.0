@@ -145,7 +145,7 @@ These are outliers that **occur in only one variable.**
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table1dot3dot1dot1.png" alt="Demo Image" width="600">
 </p>
-<br>
+<br></br>
 
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot1dot1_I.png" alt="Demo Image" width="600">
