@@ -10,6 +10,10 @@ Anomaly detection, or outlier detection, is the identification of observations, 
 
 Other names for outliers include **deviants, abnormalities, anomalies** (or **anomalous points**), and **aberrant observations**.
 
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot1.png" alt="Demo Image" width="600">
+</p>
+
 **Figure 1.1.** Visual Representation of Outliers in Machine Learning. Outliers (Red Circles) Are Data Points That Deviate Significantly from Normal Data Clusters (Green Dots).
 
 - **Green dots** = Normal data points that follow the expected pattern
@@ -23,7 +27,7 @@ Other names for outliers include **deviants, abnormalities, anomalies** (or **an
 <!-- IMAGE WITH CAPTION (Figure caption BELOW image) -->
 
 <p align="left">
-  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit4/figure_2dot1.png" alt="Demo Image" width="600">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot2.png" alt="Demo Image" width="600">
 </p>
 
 **Figure 1.2.** Impact Of Outliers on Data Distribution. Left: Outliers Distort Statistical Measures. Right: Clean Data After Outlier Removal.
