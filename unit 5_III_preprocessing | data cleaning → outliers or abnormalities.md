@@ -390,6 +390,7 @@ For example, the sudden spike in hospital visits during the COVID-19 pandemic, o
 ### 1.5. Why should we care about Outliers?
 
 Here you can see a complete understanding about outliers in this figure.
+
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot5.png" alt="Demo Image" width="600">
 </p>
