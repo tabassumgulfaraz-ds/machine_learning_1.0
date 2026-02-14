@@ -67,6 +67,7 @@ In the context of age categorization, an outlier occurs when a person's age does
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3.png" alt="Demo Image" width="600">
 </p>
+
 **Figure 1.3.** Age outlier detection showing normal data (green circles) and outliers (red X) across four age categories in Islamabad city.
 
 This chart displays all four age categories on a single graph, making it easy to compare outlier patterns across categories.
@@ -82,6 +83,7 @@ This chart displays all four age categories on a single graph, making it easy to
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure1dot4.png" alt="Demo Image" width="600">
 </p>
+
 **Figure 1.4.** Category-wise age outlier breakdown with valid ranges (green areas) and outlier statistics for each age group.
 
 This chart breaks down each category into separate panels for detailed analysis of outliers in each age group.
