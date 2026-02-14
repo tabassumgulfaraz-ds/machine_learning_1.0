@@ -636,3 +636,42 @@ Some of the statistical methods to analyze and model the data are less sensitive
 2. If outliers are not appropriately accounted for, they might produce misleading, inconsistent, and erroneous findings. As a result, identifying and dealing with outliers is critical in order to produce accurate and useful data analysis findings.
 
 3. Outliers may be detected using a variety of methods, including the percentile approach, IQR method, and z-score method. Outliers can be dealt with in a variety of methods, including removal, transformation, imputation, and so on.
+
+
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Open Data Inconsistencies Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Open Data Inconsistencies Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_II/preprocessing_datacleaning_datainconsistancies.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
+  </a>
+</ul>
+<br>
+
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit_5_II_Preprocessing%20I%20Data%20Cleaning%2C%20Data%20Inconsistencies%20or%20Anomalies.pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
+         alt="PDF Logo" 
+         width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/pdf_notes/Unit_5_II_Preprocessing%20I%20Data%20Cleaning%2C%20Data%20Inconsistencies%20or%20Anomalies.pdf" target="_blank">
+    <b>Preprocessing | Data Cleaning → Data Inconsistencies/ Anomalies</b>
+  </a>
+</p>
