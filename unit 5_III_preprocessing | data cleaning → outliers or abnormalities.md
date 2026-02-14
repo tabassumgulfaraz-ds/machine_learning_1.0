@@ -169,7 +169,7 @@ These are outliers that occur in a **combination of more than one variable.**
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot2dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot2dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -192,7 +192,7 @@ These are outliers that are abnormal in the context of the entire dataset.
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot3dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot3dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -215,7 +215,7 @@ These are outliers that are abnormal only in the context of a specific cluster o
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot4dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot4dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -238,7 +238,7 @@ These are **individual data points that are completely different from the rest o
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot5dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot5dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -261,7 +261,7 @@ These are outliers that are abnormal in a **specific context.**
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot6dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot6dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -284,7 +284,7 @@ This is a **group of data points** that may be **individually normal** but are *
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot7dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot7dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -307,7 +307,7 @@ These are outliers that **occur repeatedly.**
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot8dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot8dot1_I.png" alt="Demo Image" width="600">
 </p>
@@ -330,7 +330,7 @@ A **periodic outlier** is a data point or pattern that appears extreme but **occ
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/table%201dot3dot9dot1.png" alt="Demo Image" width="600">
 </p>
-
+<br>
 <p align="left">
   <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot3dot9dot1_I.png" alt="Demo Image" width="600">
 </p>
