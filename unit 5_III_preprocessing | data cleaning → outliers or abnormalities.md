@@ -117,7 +117,7 @@ This chart breaks down each category into separate panels for detailed analysis 
 
 ### 1.3. Types of Outliers
 
-#### 1.3.1. Univariable Outlier
+### 1.3.1. Univariable Outlier
 
 A Univariate outlier is an extreme value that **relates to just one variable.**
 
@@ -130,7 +130,7 @@ These are outliers that **occur in only one variable.**
 **Figure 1.3.1.1.** Univariate Outlier – Box Plot, Distribution View and Bar Chart
 
 
-#### 1.3.2. Multivariate Outlier
+### 1.3.2. Multivariate Outlier
 
 A multivariate outlier is a combination of unusual or extreme result for **at least two variables.**
 
@@ -155,7 +155,6 @@ These are outliers that are abnormal in the context of the entire dataset.
 
 **Figure 1.3.3.1.** Global Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.4. Local (Contextual) Outlier
 
@@ -169,7 +168,6 @@ These are outliers that are abnormal only in the context of a specific cluster o
 
 **Figure 1.3.4.1.** Local (Contextual) Outlier – Box Plot, Distribution View and Bar Chart
 
----
 
 ### 1.3.5. Point Outliers
 
