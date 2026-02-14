@@ -390,6 +390,9 @@ For example, the sudden spike in hospital visits during the COVID-19 pandemic, o
 ### 1.5. Why should we care about Outliers?
 
 Here you can see a complete understanding about outliers in this figure.
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot5.png" alt="Demo Image" width="600">
+</p>
 
 **Figure 1.5.** A comprehensive understanding of outliers and their impact on data analysis
 
@@ -480,6 +483,10 @@ The formula for Z-Score is:
 
 - **Z** – is the difference between the data point and the mean in terms of standard deviations
 
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot1dot1.png" alt="Demo Image" width="600">
+</p>
+
 **Figure 1.6.1.1.** Normal Distribution and Z-Score Standardization
 
 #### 1.6.1.1. Properties of Z-Score
@@ -517,6 +524,13 @@ The interquartile range, in short **IQR**, is a measure of **descriptive statist
 </p>
 
 **Figure 1.6.2.1.** Quartile division of a sample illustrating Q1, median (Q2), and Q3 under the IQR framework.
+
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot2dot2_I.png" alt="Demo Image" width="600">
+</p>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot2dot2_II.png" alt="Demo Image" width="600">
+</p>
 
 **Figure 1.6.2.2.** Boxplot with interquartile range and probability density function of a Normal N(0, σ²) distribution.
 
@@ -562,6 +576,13 @@ The formula for IQR is:
 
 3. The lower the IQR value, the more concentrated the middle 50% of the data is around the median.
 
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot2dot3_I.png" alt="Demo Image" width="600">
+</p>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot2dot3_II.png" alt="Demo Image" width="600">
+</p>
+
 **Figure 1.6.2.3.** Boxplot showing the five-number summary and distribution skewness of the dataset.
 
 
@@ -572,6 +593,11 @@ In the clustering method, we divide data points into clusters. This can be done 
 Then we calculate the distance of each data point from the centroid of the cluster it belongs to.
 
 Then we remove the data points that are farthest from the centroid of the cluster they belong to.
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot3dot1_I.png" alt="Demo Image" width="600">
+</p>
+<p align="left">
+  <img src="https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot6dot3dot1_II.jpg" alt="Demo Image" width="600">
+</p>
 
 **Figure 1.6.3.1.** Outliers' detection - Illustration
 
