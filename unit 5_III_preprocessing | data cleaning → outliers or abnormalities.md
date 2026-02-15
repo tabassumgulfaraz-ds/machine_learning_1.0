@@ -885,7 +885,24 @@ outliers
 **12.	K-Means Clustering**
 13.	Local Correlation Integral
 14.	and many more…
-
+```
+### Step 5: Apply Removal Method
+```python
+# Store detected outliers from Step 3
+<strong>1. Z-Score</strong>
+<strong>2. IQR</strong>
+3. DBSCAN
+<strong>4. Isolation Forest</strong>
+5. Local Outlier Factor
+6. Elliptic Envelope
+7. One-Class SVM
+8. Mahala-Nobis Distance
+9. Robust Random Cut Forest
+10. Histogram-based Outlier Score
+11. K-Nearest Neighbors
+<strong>12. K-Means Clustering</strong>
+13. Local Correlation Integral
+14. and many more…
 ```
 
 
