@@ -852,9 +852,20 @@ df[outlier_mask.any(axis=1)]
 
 ### **Step 4: Validate and Document**
 ```python
-print(f"Outliers detected: {len(outliers)}")
-print(outliers)
-# Review and decide: remove, cap, or keep
+# Store detected outliers from Step 3
+outliers = df[outlier_mask.any(axis=1)]
+
+# Total number of outlier rows
+len(outliers)
+
+# Percentage of dataset flagged as outlier
+{round((len(outliers)/len(df))*100, 2)}
+
+# Column-wise outlier count
+outlier_mask.sum()
+
+# Display detected outlier rows
+outliers
 ```
 
 
