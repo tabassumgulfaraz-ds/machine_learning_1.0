@@ -799,12 +799,27 @@ Performance and scalability analysis of outlier detection methodologies across s
 
 ### **Step 1: Choose Your Visualization Method**
 ```python
-import seaborn as sns
+import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Box Plot (Most Popular)
-sns.boxplot(data=df, y='column_name')
-plt.title('Outlier Detection - Box Plot')
+# Select numeric columns
+df.select_dtypes(include=[np.number]).columns
+
+# Set up subplot grid
+n_cols = 2   # number of plots per row
+n_rows = int(np.ceil(len(df) / n_cols))
+
+plt.figure(figsize=(18, 5 * n_rows))
+
+for i, col in enumerate(df, 1):
+    plt.subplot(n_rows, n_cols, i)
+    sns.boxplot(y=df[col])
+    plt.title(f'Outliers in {col}')
+    plt.ylabel(col)
+
+plt.tight_layout()
 plt.show()
 ```
 
