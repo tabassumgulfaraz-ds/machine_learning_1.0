@@ -829,16 +829,25 @@ plt.show()
 
 ### **Step 3: Apply Detection Method**
 ```python
-# IQR Method
-Q1 = df['column'].quantile(0.25)
-Q3 = df['column'].quantile(0.75)
-IQR = Q3 - Q1
-outliers = df[(df['column'] < Q1 - 1.5*IQR) | (df['column'] > Q3 + 1.5*IQR)]
+# Select numeric columns only
+numeric_df = df.select_dtypes(include=[np.number])
 
-# OR Isolation Forest
-iso_forest = IsolationForest(contamination=0.1)
-predictions = iso_forest.fit_predict(df)
-outliers = df[predictions == -1]
+# Create empty boolean mask
+outlier_mask = pd.DataFrame(False, index=df.index, columns=numeric_df.columns)
+
+# Apply IQR column-wise
+for col in numeric_df.columns:
+    Q1 = numeric_df[col].quantile(0.25)
+    Q3 = numeric_df[col].quantile(0.75)
+    IQR = Q3 - Q1
+    
+    lower = Q1 - 1.5 * IQR
+    upper = Q3 + 1.5 * IQR
+    
+    outlier_mask[col] = (numeric_df[col] < lower) | (numeric_df[col] > upper) 
+
+# Detect rows where ANY column has outlier
+df[outlier_mask.any(axis=1)]
 ```
 
 ### **Step 4: Validate and Document**
