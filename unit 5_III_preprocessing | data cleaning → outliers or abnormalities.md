@@ -730,17 +730,15 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 
 
+![Python Libraries for Outlier Detection - Comprehensive Comparison](https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot9dot3dot1.png)
 ### **Figure 1.9.3.1.** Comparative analysis of nine popular Python libraries for outlier detection across five key evaluation dimensions.
-
-![Python Libraries for Outlier Detection - Comprehensive Comparison](library_comparison_chart.png)
 
 Quantitative comparison of nine widely-used Python libraries for outlier detection and data analysis, evaluated across five critical dimensions: ease of use, performance, scalability, feature richness, and documentation quality. Each library is rated on a 5-point scale (1=poor, 5=excellent) across all dimensions, presented as grouped bar charts for direct comparison. This multi-dimensional analysis enables practitioners to select libraries aligned with their specific project requirements, balancing factors such as ease of implementation, computational efficiency, scalability needs, algorithmic variety, and learning curve considerations.
 
 
-
+![Outlier Detection Method Effectiveness Matrix](https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/figures/unit5_III/figure%201dot9dot3dot2.png)
 ### **Figure 1.9.3.2.** Effectiveness heatmap showing performance of eight outlier detection methods across eight common data scenarios.
 
-![Outlier Detection Method Effectiveness Matrix](method_effectiveness_matrix.png)
 
 Comprehensive effectiveness matrix visualizing the performance of eight outlier detection methodologies across eight distinct data scenarios, presented as a color-coded heatmap with quantitative ratings (1=poor, 5=excellent). The methods evaluated include statistical approaches (Z-Score, IQR), machine learning techniques (Isolation Forest, Local Outlier Factor, DBSCAN, One-Class SVM), distance-based methods (Mahalanobis), and deep learning approaches (Autoencoder). The color gradient (red=poor, yellow=moderate, green=excellent) provides immediate visual indication of method suitability.
 
