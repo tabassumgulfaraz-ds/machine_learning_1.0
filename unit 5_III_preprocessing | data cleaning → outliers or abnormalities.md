@@ -871,40 +871,21 @@ outliers
 ### Step 5: Apply Removal Method
 ```python
 # Store detected outliers from Step 3
-**1.	Z-Score**
-**2.	IQR**
-3.	DBSCAN
-**4.	Isolation Forest**
-5.	Local Outlier Factor
-6.	Elliptic Envelope
-7.	One-Class SVM
-8.	Mahala-Nobis Distance
-9.	Robust Random Cut Forest
-10.	Histogram-based Outlier Score
-11.	K-Nearest Neighbors
-**12.	K-Means Clustering**
+1.	Z-Score
+2.	IQR
+3.	K-Means Clustering
+4.	Isolation Forest
+5.	DBSCAN
+6.	Local Outlier Factor
+7.	Elliptic Envelope
+8.	One-Class SVM
+9.	Mahala-Nobis Distance
+10.	Robust Random Cut Forest
+11.	Histogram-based Outlier Score
+12.	K-Nearest Neighbors
 13.	Local Correlation Integral
 14.	and many more…
 ```
-### Step 5: Apply Removal Method
-```python
-# Store detected outliers from Step 3
-<strong>1. Z-Score</strong>
-<strong>2. IQR</strong>
-3. DBSCAN
-<strong>4. Isolation Forest</strong>
-5. Local Outlier Factor
-6. Elliptic Envelope
-7. One-Class SVM
-8. Mahala-Nobis Distance
-9. Robust Random Cut Forest
-10. Histogram-based Outlier Score
-11. K-Nearest Neighbors
-<strong>12. K-Means Clustering</strong>
-13. Local Correlation Integral
-14. and many more…
-```
-
 
 ### 📊 Summary Matrix
 
