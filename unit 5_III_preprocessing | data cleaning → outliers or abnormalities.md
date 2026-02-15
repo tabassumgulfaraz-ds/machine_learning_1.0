@@ -641,10 +641,10 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 # 📊 Outlier Detection and Removal Guide
 
-## 1.9. Outlier Visualization/Detection and Removal
+### 1.9. Outlier Visualization/Detection and Removal
 
 
-## 1.9.1. Visualization Method for Outlier Detections
+### 1.9.1. Visualization Method for Outlier Detections
 
 ### **Box Plot** ⭐⭐⭐⭐⭐
 
@@ -691,7 +691,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 - Relationship-based outliers
 - **Library**: `seaborn`
 
-## 1.9.2. LIBRARIES FOR OUTLIER DETECTION
+### 1.9.2. LIBRARIES FOR OUTLIER DETECTION
 
 **Table 1.9.2.1.** Essential Python libraries for outlier detection: ratings, use cases, and key functions
 
@@ -708,7 +708,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 > **💡 Golden Rule:** *"Outliers are not always errors. Errors are always outliers. Know the difference."*
 
 
-## 1.9.3. METHOD SELECTION MATRIX
+### 1.9.3. METHOD SELECTION MATRIX
 
 **Table 1.9.3.1.** Method selection matrix showing recommended outlier detection approaches based on data characteristics and distribution types.
 
@@ -746,7 +746,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 
 
-## 1.9.4. FINAL RECOMMENDATION MATRIX
+### 1.9.4. FINAL RECOMMENDATION MATRIX
 
 **Table 1.9.4.1.** Role-based recommendations for outlier detection tools, methods, and visualization approaches tailored to different data professional roles.
 
@@ -763,7 +763,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 
 
-## 1.9.5. Resources for Deep Dive
+### 1.9.5. Resources for Deep Dive
 
 1. **PyOD**: https://github.com/yzhao062/pyod (40+ algorithms)
 2. **Anomaly Detection Resources**: https://github.com/yzhao062/anomaly-detection-resources
@@ -782,7 +782,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 - ✅ Production constraints
 
 
-## 1.9.6. SCALABILITY CONSIDERATIONS
+### 1.9.6. SCALABILITY CONSIDERATIONS
 
 **Table 1.9.6.1.** Scalability analysis of outlier detection methods showing recommended approaches, tools, and expected processing times across different dataset sizes.
 
@@ -799,7 +799,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 
 
-## 🎯 Quick Start Guide
+### 🎯 Quick Start Guide
 
 ### **Step 1: Choose Your Visualization Method**
 ```python
@@ -842,7 +842,7 @@ print(outliers)
 ```
 
 
-## 📊 Summary Matrix
+### 📊 Summary Matrix
 
 | **What** | **When** | **Tool** |
 |----------|----------|----------|
@@ -853,7 +853,7 @@ print(outliers)
 | Big data | Datasets > 1M | Dask/PySpark |
 
 
-## 🚀 Best Practices
+### 🚀 Best Practices
 
 1. **Always visualize first** - Use box plots or scatter plots
 2. **Combine methods** - Statistical + ML + Domain knowledge
@@ -862,7 +862,7 @@ print(outliers)
 5. **Consider context** - Not all outliers are errors
 
 
-## 📚 Additional Resources
+### 📚 Additional Resources
 
 - **Documentation**: See individual library documentation for detailed API reference
 - **Tutorials**: Check GitHub repositories for practical examples
@@ -870,12 +870,12 @@ print(outliers)
 - **Papers**: Read original research papers for theoretical foundations
 
 
-## 📄 License
+### 📄 License
 
 This guide is provided for educational and professional reference purposes.
 
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 For corrections, improvements, or additions to this guide, please:
 1. Review the content
@@ -883,7 +883,7 @@ For corrections, improvements, or additions to this guide, please:
 3. Follow the established formatting conventions
 
 
-## 📞 Contact & Support
+##W 📞 Contact & Support
 
 For questions or clarifications about outlier detection methods, consult:
 - Official library documentation
