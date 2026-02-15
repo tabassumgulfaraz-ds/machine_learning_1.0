@@ -937,7 +937,7 @@ For questions or clarifications about outlier detection methods, consult:
 
 ### 1.10.3.	K-Means Clustering
 
-#### 1.10.4.	Isolation Forest
+### 1.10.4.	Isolation Forest
 
 
 <ul>
