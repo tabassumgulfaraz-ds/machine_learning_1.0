@@ -866,19 +866,6 @@ print(outliers)
 - **Papers**: Read original research papers for theoretical foundations
 
 
-### 📄 License
-
-This guide is provided for educational and professional reference purposes.
-
-
-### 🤝 Contributing
-
-For corrections, improvements, or additions to this guide, please:
-1. Review the content
-2. Suggest changes with proper citations
-3. Follow the established formatting conventions
-
-
 ### 📞 Contact & Support
 
 For questions or clarifications about outlier detection methods, consult:
