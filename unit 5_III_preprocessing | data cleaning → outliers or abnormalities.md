@@ -797,7 +797,15 @@ Performance and scalability analysis of outlier detection methodologies across s
 
 ### 🎯 Quick Start Guide
 
-### **Step 1: Choose Your Visualization Method**
+### **Step 1: Select Appropriate Libraries**
+```python
+import pandas as pd
+import numpy as np
+from scipy import stats
+from sklearn.ensemble import IsolationForest
+```
+
+### **Step 2: Choose Your Visualization Method**
 ```python
 import numpy as np
 import pandas as pd
@@ -823,13 +831,6 @@ plt.tight_layout()
 plt.show()
 ```
 
-### **Step 2: Select Appropriate Libraries**
-```python
-import pandas as pd
-import numpy as np
-from scipy import stats
-from sklearn.ensemble import IsolationForest
-```
 
 ### **Step 3: Apply Detection Method**
 ```python
