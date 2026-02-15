@@ -868,6 +868,26 @@ outlier_mask.sum()
 outliers
 ```
 
+### Step 5: Apply Removal Method
+```python
+# Store detected outliers from Step 3
+**1.	Z-Score**
+**2.	IQR**
+3.	DBSCAN
+**4.	Isolation Forest**
+5.	Local Outlier Factor
+6.	Elliptic Envelope
+7.	One-Class SVM
+8.	Mahala-Nobis Distance
+9.	Robust Random Cut Forest
+10.	Histogram-based Outlier Score
+11.	K-Nearest Neighbors
+**12.	K-Means Clustering**
+13.	Local Correlation Integral
+14.	and many more…
+
+```
+
 
 ### 📊 Summary Matrix
 
