@@ -883,7 +883,7 @@ For corrections, improvements, or additions to this guide, please:
 3. Follow the established formatting conventions
 
 
-##W 📞 Contact & Support
+### 📞 Contact & Support
 
 For questions or clarifications about outlier detection methods, consult:
 - Official library documentation
