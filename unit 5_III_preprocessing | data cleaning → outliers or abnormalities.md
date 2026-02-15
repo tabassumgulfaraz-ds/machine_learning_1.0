@@ -930,7 +930,14 @@ For questions or clarifications about outlier detection methods, consult:
 
 > **⚡ Pro Tip:** Start with IQR for baseline detection, add Isolation Forest for ML enhancement, and always validate with domain knowledge. This approach works for 90% of real-world projects!
 
-# Outlier Visualization, Detection, Validation & Document, and Removal
+## Outlier Visualization, Detection, Validation & Document, and Removal
+### 1.10.1.	Z-Score
+
+### 1.10.2.	Interquartile Range (IQR) 
+
+### 1.10.3.	K-Means Clustering
+
+#### 1.10.4.	Isolation Forest
 
 
 <ul>
