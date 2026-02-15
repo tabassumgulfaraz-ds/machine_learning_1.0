@@ -807,11 +807,6 @@ from sklearn.ensemble import IsolationForest
 
 ### **Step 2: Choose Your Visualization Method**
 ```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 # Select numeric columns
 df.select_dtypes(include=[np.number]).columns
 
