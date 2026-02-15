@@ -734,7 +734,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 ![Python Libraries for Outlier Detection - Comprehensive Comparison](library_comparison_chart.png)
 
-**Caption:** Quantitative comparison of nine widely-used Python libraries for outlier detection and data analysis, evaluated across five critical dimensions: ease of use, performance, scalability, feature richness, and documentation quality. Each library is rated on a 5-point scale (1=poor, 5=excellent) across all dimensions, presented as grouped bar charts for direct comparison. This multi-dimensional analysis enables practitioners to select libraries aligned with their specific project requirements, balancing factors such as ease of implementation, computational efficiency, scalability needs, algorithmic variety, and learning curve considerations.
+Quantitative comparison of nine widely-used Python libraries for outlier detection and data analysis, evaluated across five critical dimensions: ease of use, performance, scalability, feature richness, and documentation quality. Each library is rated on a 5-point scale (1=poor, 5=excellent) across all dimensions, presented as grouped bar charts for direct comparison. This multi-dimensional analysis enables practitioners to select libraries aligned with their specific project requirements, balancing factors such as ease of implementation, computational efficiency, scalability needs, algorithmic variety, and learning curve considerations.
 
 
 
@@ -742,7 +742,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 ![Outlier Detection Method Effectiveness Matrix](method_effectiveness_matrix.png)
 
-**Caption:** Comprehensive effectiveness matrix visualizing the performance of eight outlier detection methodologies across eight distinct data scenarios, presented as a color-coded heatmap with quantitative ratings (1=poor, 5=excellent). The methods evaluated include statistical approaches (Z-Score, IQR), machine learning techniques (Isolation Forest, Local Outlier Factor, DBSCAN, One-Class SVM), distance-based methods (Mahalanobis), and deep learning approaches (Autoencoder). The color gradient (red=poor, yellow=moderate, green=excellent) provides immediate visual indication of method suitability.
+Comprehensive effectiveness matrix visualizing the performance of eight outlier detection methodologies across eight distinct data scenarios, presented as a color-coded heatmap with quantitative ratings (1=poor, 5=excellent). The methods evaluated include statistical approaches (Z-Score, IQR), machine learning techniques (Isolation Forest, Local Outlier Factor, DBSCAN, One-Class SVM), distance-based methods (Mahalanobis), and deep learning approaches (Autoencoder). The color gradient (red=poor, yellow=moderate, green=excellent) provides immediate visual indication of method suitability.
 
 
 
@@ -759,7 +759,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 | **Research Scientist** | Custom methods | Multiple ensemble | Academic plots |
 | **Business Analyst** | IQR (Excel/BI) | Percentiles | Interactive dashboards |
 
-**Caption:** Role-specific recommendation matrix for outlier detection implementation across six distinct data professional roles. The matrix provides tailored guidance considering the unique requirements, technical capabilities, and organizational contexts of each role. This role-based framework acknowledges that effective outlier detection requires not only technical accuracy but also alignment with organizational workflows, stakeholder communication needs, and available technical infrastructure.
+Role-specific recommendation matrix for outlier detection implementation across six distinct data professional roles. The matrix provides tailored guidance considering the unique requirements, technical capabilities, and organizational contexts of each role. This role-based framework acknowledges that effective outlier detection requires not only technical accuracy but also alignment with organizational workflows, stakeholder communication needs, and available technical infrastructure.
 
 
 
