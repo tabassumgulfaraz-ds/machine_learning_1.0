@@ -795,7 +795,7 @@ Some of the statistical methods to analyze and model the data are less sensitive
 | **10M - 100M** | Distributed IF | PySpark | Hours |
 | **> 100M** | Sampling + streaming | Spark, Flink | Hours - Days |
 
-**Caption:** Performance and scalability analysis of outlier detection methodologies across six data volume categories ranging from small datasets (<10K rows) to big data scenarios (>100M rows). The table systematically evaluates computational complexity and processing efficiency by mapping dataset sizes to appropriate detection methods, computational frameworks, and expected execution times. This analysis provides critical guidance for infrastructure planning and method selection in production environments.
+Performance and scalability analysis of outlier detection methodologies across six data volume categories ranging from small datasets (<10K rows) to big data scenarios (>100M rows). The table systematically evaluates computational complexity and processing efficiency by mapping dataset sizes to appropriate detection methods, computational frameworks, and expected execution times. This analysis provides critical guidance for infrastructure planning and method selection in production environments.
 
 
 
