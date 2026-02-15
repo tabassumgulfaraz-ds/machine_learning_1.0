@@ -637,8 +637,6 @@ Some of the statistical methods to analyze and model the data are less sensitive
 
 3. Outliers may be detected using a variety of methods, including the percentile approach, IQR method, and z-score method. Outliers can be dealt with in a variety of methods, including removal, transformation, imputation, and so on.
 
----
-
 # 📊 Outlier Detection and Removal Guide
 
 ### 1.9. Outlier Visualization/Detection and Removal
