@@ -918,17 +918,4 @@ For questions or clarifications about outlier detection methods, consult:
     <strong>Open Data Inconsistencies Notebook (Kaggle)</strong>
   </a>
 </ul>
-<br>
 
-<p align="center">
-  <a href="" 
-         alt="PDF Logo" 
-         width="100"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="" target="_blank">
-    <b>Preprocessing | Data Cleaning → Data Outliers/ Abnormalities</b>
-  </a>
-</p>
