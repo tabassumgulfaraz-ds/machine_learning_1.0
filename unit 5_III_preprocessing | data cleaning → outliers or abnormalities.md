@@ -804,6 +804,28 @@ import numpy as np
 from scipy import stats
 from sklearn.ensemble import IsolationForest
 ```
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 ### **Step 2: Choose Your Visualization Method**
 ```python
@@ -825,6 +847,28 @@ for i, col in enumerate(df, 1):
 plt.tight_layout()
 plt.show()
 ```
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 
 ### **Step 3: Apply Detection Method**
@@ -849,6 +893,28 @@ for col in numeric_df.columns:
 # Detect rows where ANY column has outlier
 df[outlier_mask.any(axis=1)]
 ```
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 ### **Step 4: Validate and Document**
 ```python
@@ -867,6 +933,28 @@ outlier_mask.sum()
 # Display detected outlier rows
 outliers
 ```
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 ### Step 5: Apply Removal Method
 ```python
@@ -886,6 +974,28 @@ outliers
 13.	Local Correlation Integral
 14.	and many more…
 ```
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so you need to be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Outlier Visualization, Detection and Removal Method Notebook (Kaggle)</strong>
+  </a>
+</ul>
 
 ### 📊 Summary Matrix
 
