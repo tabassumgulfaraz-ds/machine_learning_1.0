@@ -971,9 +971,9 @@ outliers
   </a>
 </ul>
 
-### Step 5: Apply Removal Method
+### Step 5: Remove Outliers
 ```python
-# 
+# Now you can remove outlers.
 ```
 <ul>
   <!-- Live Jupyter Notebook (Binder) -->
