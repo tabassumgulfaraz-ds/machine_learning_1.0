@@ -873,6 +873,21 @@ plt.show()
 
 ### **Step 3: Apply Detection Method**
 ```python
+1.	IQR
+2.	Z-Score
+3.	K-Means Clustering
+4.	Isolation Forest
+5.	DBSCAN
+6.	Local Outlier Factor
+7.	Elliptic Envelope
+8.	One-Class SVM
+9.	Mahala-Nobis Distance
+10.	Robust Random Cut Forest
+11.	Histogram-based Outlier Score
+12.	K-Nearest Neighbors
+13.	Local Correlation Integral
+14.	and many more…
+
 # Select numeric columns only
 numeric_df = df.select_dtypes(include=[np.number])
 
@@ -958,21 +973,7 @@ outliers
 
 ### Step 5: Apply Removal Method
 ```python
-# Store detected outliers from Step 3
-1.	Z-Score
-2.	IQR
-3.	K-Means Clustering
-4.	Isolation Forest
-5.	DBSCAN
-6.	Local Outlier Factor
-7.	Elliptic Envelope
-8.	One-Class SVM
-9.	Mahala-Nobis Distance
-10.	Robust Random Cut Forest
-11.	Histogram-based Outlier Score
-12.	K-Nearest Neighbors
-13.	Local Correlation Integral
-14.	and many more…
+# 
 ```
 <ul>
   <!-- Live Jupyter Notebook (Binder) -->
