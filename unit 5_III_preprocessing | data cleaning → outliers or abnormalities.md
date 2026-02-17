@@ -973,7 +973,21 @@ outliers
 
 ### Step 5: Remove Outliers
 ```python
-# Now you can remove outlers.
+In this step, we deal with outliers present in the dataset. Outliers can negatively impact model performance, especially for algorithms sensitive to extreme values (e.g., linear regression, k-means).
+
+There are multiple ways to handle outliers:
+
+   1. Remove outlier rows completely
+   If the outliers are due to data entry errors or are not meaningful, we can remove those rows from the dataset.
+
+   2. Cap or Winsorize values
+   Replace extreme values with upper and lower threshold limits (e.g., using IQR or percentile method).
+
+   3. Transform the data
+   Apply transformations such as log, square root, or Box-Cox to reduce the impact of extreme values.
+
+   4. Use robust models or scaling techniques
+   Some algorithms (e.g., tree-based models) and robust scalers are less sensitive to outliers.
 ```
 <ul>
   <!-- Live Jupyter Notebook (Binder) -->
