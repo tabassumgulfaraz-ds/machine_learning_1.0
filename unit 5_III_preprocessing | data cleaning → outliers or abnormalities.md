@@ -1097,6 +1097,11 @@ For questions or clarifications about outlier detection methods, consult:
 </ul>
 
 ### 1.10.2.	Z-Score
+| Method   | Best For     | Sensitive To Skew? | Outliers Detected |
+|----------|-------------|------------------|-----------------|
+| IQR      | Skewed data | ❌ No             | 6               |
+| Z-Score  | Normal data | ✅ Yes            | 4               |
+
 
 ### 1.10.3.	K-Means Clustering
 
