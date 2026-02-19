@@ -1097,6 +1097,11 @@ For questions or clarifications about outlier detection methods, consult:
 </ul>
 
 ### 1.10.2.	Z-Score
+**_Before jumping into the code (notebook), please watch this video first. In this video, you can see how to calculate mean (μ), standard deviation (σ), z-score for each data point (z), and set threshold ±3 or ±2.5 and finally detect the outliers for the entire dataset. _**
+<a href="https://www.youtube.com/watch?v=tW4MMhkTzhs" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Watch%20Video-FF0000?logo=youtube&logoColor=white" />
+  <strong>Inter Quartile Range (IQR) Outlier Detection in Machine Learning (Video)</strong>
+</a>    
 | Method   | Best For     | Sensitive To Skew? | Outliers Detected |
 |----------|-------------|------------------|-----------------|
 | IQR      | Skewed data | ✗ No             | 6               |
