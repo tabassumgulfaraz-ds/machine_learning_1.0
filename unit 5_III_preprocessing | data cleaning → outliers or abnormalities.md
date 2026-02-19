@@ -1057,6 +1057,7 @@ For questions or clarifications about outlier detection methods, consult:
 
 ## 1.10. Outlier Visualization, Detection, Validation & Document, and Removal
 ### 1.10.1.	Interquartile Range (IQR)
+**_Before jumping into the code (notebook), please watch this video first. In this video, you can see how to calculate Q1, Q3, IQR, and the threshold (optional) for the given dataset, and finally determine the lower and upper bound thresholds for outlier detection from the entire dataset._**
 <ul>
   <!-- Live Jupyter Notebook (Binder) -->
   <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers_iqr.ipynb" target="_blank">
