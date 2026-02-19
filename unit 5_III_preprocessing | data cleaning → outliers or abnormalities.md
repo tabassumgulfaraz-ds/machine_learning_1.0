@@ -1108,12 +1108,12 @@ Z-score uses mean and standard deviation
 If dataset is slightly skewed, mean shifts  
 Extreme values influence standard deviation  
 So fewer points cross ±3 threshold  
-IQR is more robust when:
+- IQR is more robust when:
 - Data is skewed (Skewed → IQR better)
 - Small dataset
 - Heavy-tailed distribution  
-Z-score works best when:  
-- Data is approximately normal distribution (Normal → Z-score better)
+- Z-score works best when:  
+<ul>- Data is approximately normal distribution (Normal → Z-score better)</ul>
 
 ### 1.10.3.	K-Means Clustering
 
