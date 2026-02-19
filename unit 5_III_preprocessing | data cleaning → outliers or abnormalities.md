@@ -1065,12 +1065,12 @@ For questions or clarifications about outlier detection methods, consult:
 **Note:**
 - In the IQR method, we usually think we need to arrange the dataset in ascending order, but in pandas we can compute it without sorting by using the quantile() function.
 - In my code the numeric dataset is not being sorted anywhere before applying the IQR formula. The quantile() function in pandas does not require sorted data—it internally handles the computation correctly without you sorting the column.
-<ul> Q1 = numeric_df[col].quantile(0.25) <\ul>
-<ul> Q3 = numeric_df[col].quantile(0.75) <\ul>
-<ul> numeric_df[col].quantile(0.25) computes the 25th percentile. <\ul>
-<ul> numeric_df[col].quantile(0.75) computes the 75th percentile. <\ul>
-<ul> Pandas calculates quantiles using the values in the column; it doesn’t require the column to be sorted first. Sorting is not needed and not done automatically in our code. <\ul>
-<ul> So, our IQR calculation works fine even if the data is unsorted. <\ul>
+<ul> Q1 = numeric_df[col].quantile(0.25) </ul>
+<ul> Q3 = numeric_df[col].quantile(0.75) </ul>
+<ul> numeric_df[col].quantile(0.25) computes the 25th percentile. </ul>
+<ul> numeric_df[col].quantile(0.75) computes the 75th percentile. </ul>
+<ul> Pandas calculates quantiles using the values in the column; it doesn’t require the column to be sorted first. Sorting is not needed and not done automatically in our code. </ul>
+<ul> So, our IQR calculation works fine even if the data is unsorted. </ul>
 
 
 <ul>
