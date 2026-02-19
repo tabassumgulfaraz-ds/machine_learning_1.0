@@ -1124,6 +1124,29 @@ For questions or clarifications about outlier detection methods, consult:
 - Z-score works best when:  
 <ul>•  Data is approximately normal distribution (Normal → Z-score better)</ul>
 
+<ul>
+  <!-- Live Jupyter Notebook (Binder) -->
+  <a href="https://mybinder.org/v2/gh/tabassumgulfaraz-ds/machine_learning_1.0/HEAD?filepath=files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers_zscore.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" />
+    <strong>Outlier Detection and Removal using Z-score Method Notebook (Live Jupyter - Binder)</strong>
+  </a><br>
+  ⏳ This will take a few seconds or minutes, so please be patient.
+  <br></br>
+  
+  <!-- Open in Google Colab -->
+  <a href="https://colab.research.google.com/github/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers_zscore.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+    <strong>Outlier Detection and Removal using Z-score Method Notebook (Colab)</strong>
+  </a>
+  <br>
+
+  <!-- Open in Kaggle -->
+  <a href="https://kaggle.com/kernels/welcome?src=https://github.com/tabassumgulfaraz-ds/machine_learning_1.0/blob/main/files_and_datasets/f_ds5_III/preprocessing_datacleaning_outlers_zscore.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?logo=kaggle&logoColor=white" />
+    <strong>Outlier Detection and Removal using Z-score Method Notebook (Kaggle)</strong>
+  </a>
+</ul>
+
 ### 1.10.3.	K-Means Clustering
 
 ### 1.10.4.	Isolation Forest
