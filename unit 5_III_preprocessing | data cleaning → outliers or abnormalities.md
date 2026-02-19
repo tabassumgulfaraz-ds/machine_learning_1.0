@@ -1111,7 +1111,7 @@ So fewer points cross ±3 threshold
 IQR is more robust when:
 - Data is skewed (Skewed → IQR better)
 - Small dataset
-- Heavy-tailed distribution
+- Heavy-tailed distribution  
 Z-score works best when:  
 - Data is approximately normal distribution (Normal → Z-score better)
 
