@@ -1103,8 +1103,8 @@ For questions or clarifications about outlier detection methods, consult:
   <img src="https://img.shields.io/badge/YouTube-Watch%20Video-FF0000?logo=youtube&logoColor=white" />
   <strong> Z-Score Outlier Detection in Machine Learning (Video)
 </strong>  
-  
-</a>    
+</a>  
+
 | Method   | Best For     | Sensitive To Skew? | Outliers Detected |
 |----------|-------------|------------------|-----------------|
 | IQR      | Skewed data | ✗ No             | 6               |
