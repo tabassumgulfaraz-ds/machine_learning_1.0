@@ -1102,6 +1102,18 @@ For questions or clarifications about outlier detection methods, consult:
 | IQR      | Skewed data | ❌ No             | 6               |
 | Z-Score  | Normal data | ✅ Yes            | 4               |
 
+IQR works better for skewed data  
+Z-score assumes data is normally distributed (bell-shaped)  
+Z-score uses mean and standard deviation
+If dataset is slightly skewed, mean shifts  
+Extreme values influence standard deviation  
+So fewer points cross ±3 threshold  
+IQR is more robust when:
+- Data is skewed (Skewed → IQR better)
+- Small dataset
+- Heavy-tailed distribution
+Z-score works best when:  
+- Data is approximately normal distribution (Normal → Z-score better)
 
 ### 1.10.3.	K-Means Clustering
 
