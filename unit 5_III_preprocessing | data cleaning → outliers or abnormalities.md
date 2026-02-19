@@ -1112,7 +1112,7 @@ For questions or clarifications about outlier detection methods, consult:
 <ul>• Data is skewed (Skewed → IQR better)</ul>
 <ul>• Small dataset</ul>
 <ul>• Heavy-tailed distribution</ul>
-- Z-score works best when:  
+- (Z-score) works best when:  
 <ul>•  Data is approximately normal distribution (Normal → Z-score better)</ul>
 
 ### 1.10.3.	K-Means Clustering
